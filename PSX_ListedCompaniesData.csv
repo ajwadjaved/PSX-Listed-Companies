@@ -1,0 +1,619 @@
+,Symbols,Company,Sector
+0,AGTL,Al-Ghazi Tractors Limited.,Automobile assembler
+1,ATLH,Atlas Honda Limited.,Automobile assembler
+2,DFML,Dewan Farooque Motors Limited [ DEFAULTER SEGMENT ],Automobile assembler
+3,GHNI,Ghandhara Industries Ltd.,Automobile assembler
+4,GHNL,Ghandhara Nissan Ltd.,Automobile assembler
+5,HCAR,Honda Atlas Cars (Pak) Ltd.,Automobile assembler
+6,HINO,Hino Pak Motor Limited.,Automobile assembler
+7,INDU,Indus Motor Company Ltd.,Automobile assembler
+8,MTL,Millat Tractors Limited.,Automobile assembler
+9,PSMC,Pak Suzuki Motors Co Ltd. (XD),Automobile assembler
+10,SAZEW,Sazgar Engineering Works Ltd.,Automobile assembler
+11,SAZEWR,Sazgar Engineering Works Ltd.(R),Automobile assembler
+12,AGIL,Agriautos Industries Co. Ltd.,Automobile parts & accessories
+13,ATBA,Atlas Battery Ltd.,Automobile parts & accessories
+14,BELA,Bela Automotives Ltd. [ DEFAULTER SEGMENT ],Automobile parts & accessories
+15,BWHL,Baluchistan Wheels Ltd.,Automobile parts & accessories
+16,DWAE,Dewan Automotive Engineering Ltd. [ DEFAULTER SEGMENT ],Automobile parts & accessories
+17,EXIDE,Exide Pakistan Ltd.,Automobile parts & accessories
+18,GTYR,Ghandhara Tyre & Rubber Company Ltd.,Automobile parts & accessories
+19,LOADS,Loads Limited.,Automobile parts & accessories
+20,PTL,Panther Tyres Limited,Automobile parts & accessories
+21,THALL,Thal Limited.,Automobile parts & accessories
+22,AGSILSC,Agha Steel Industries Ltd.(SUKUK),Bonds
+23,AKBLTFC6,Askari Bank Ltd.(TFC),Bonds
+24,AKBLTFC7,Askari Bank Ltd.(TFC7),Bonds
+25,AZLCLTFC2,Al-Zamin Leasing Corporation(2nd Issue) [ DEFAULTER SEGMENT ],Bonds
+26,BAFLTFC6,Bank Alfalah Limited.(TFC6),Bonds
+27,BAFLTFC7,Bank Alfalah Limited.(TFC7),Bonds
+28,BIPLSC,Bankislami Pakistan Ltd.-SUKUK,Bonds
+29,CNERGYSC,Cnergyico PK Limited.(SUKUK),Bonds
+30,EPCLSC,Engro Polymer & Chemicals Ltd.(SUKUK),Bonds
+31,HBLTFC2,Habib Bank Limited.(TFC2),Bonds
+32,HUBCSC2,Hub Power Company Limited.(SUKUK),Bonds
+33,HUBCSC4,Hub Power Company Limited.(SUKUK),Bonds
+34,HUBPHLSC,Hub Power Holding Limited SUKUK,Bonds
+35,JSBLTFC1,JS Bank Limited (TFC1),Bonds
+36,JSBLTFC2,JS Bank Limited (TFC2),Bonds
+37,JSTFC11,Jahangir Siddiqui & Co. Limited-TFC11,Bonds
+38,KELSC4,K-Electric Limited-SUKUK-4,Bonds
+39,KELSC5,K-Electric Limited-SUKUK-5,Bonds
+40,KFTFC1,KASHF Foundation,Bonds
+41,MUGHALSC,Mughal Iron & Steel SUKUK,Bonds
+42,NEXTCP,Next Capital Limited (CP),Bonds
+43,NSB10Y1,National Savings Bonds,Bonds
+44,PACETFC,PACE Pakistan Ltd.(TFC) [ DEFAULTER SEGMENT ],Bonds
+45,PESC1,Pakistan Energy SUKUK-1,Bonds
+46,PESC2,Pakistan Energy SUKUK-2,Bonds
+47,SBLTFC,Samba Bank Limited (TFC),Bonds
+48,SMBLTFC,SUMMIT Bank Limited.(TFC),Bonds
+49,SNBLTFC2,Soneri Bank Limited(TFC2),Bonds
+50,SNBLTFC3,Soneri Bank Limited(TFC3),Bonds
+51,TELETFC,Telecard Ltd.(TFC),Bonds
+52,TFCTRIBL,Trust Investment Bank Ltd. [ DEFAULTER SEGMENT ],Bonds
+53,UBLTFC5,United Bank Limited(TFC-5),Bonds
+54,WTLTFC3,Worldcall Lelecom Ltd.,Bonds
+55,EMCO,EMCO Industries Ltd.,Cable & electrical goods
+56,JOPP,Johnson & Philips (Pak) Ltd.,Cable & electrical goods
+57,PAEL,Pak Elektron Ltd.,Cable & electrical goods
+58,PAELR3,Pakistan Elektron Ltd.(R3),Cable & electrical goods
+59,PCAL,Pakistan Cables Ltd.,Cable & electrical goods
+60,PELPS,Pakistan Elektron Ltd.(PS),Cable & electrical goods
+61,SIEM,Siemens (Pak) Eng. Co. Ltd.,Cable & electrical goods
+62,WAVES,WAVES Singer Pakistan Ltd.,Cable & electrical goods
+63,ACPL,Attock Cement Pak Ltd.,Cement
+64,BWCL,Bestway Cement Limited.,Cement
+65,CHCC,Cherat Cement Co. Ltd.,Cement
+66,DBCI,Dadabhoy Cement Industries Ltd [ DEFAULTER SEGMENT ],Cement
+67,DCL,Dewan Cement Limited.,Cement
+68,DGKC,D. G. Khan Cement Co. Ltd.,Cement
+69,DNCC,Dandot Cement Co. Ltd. [ DEFAULTER SEGMENT ],Cement
+70,FCCL,Fauji Cement Co Ltd.,Cement
+71,FECTC,Fecto Cement Ltd.,Cement
+72,FLYNG,Flying Cement Company Ltd.,Cement
+73,FLYNGR1,Flying Cement Company Ltd.(R1),Cement
+74,GWLC,Gharibwal Cement Ltd.,Cement
+75,JVDC,Javedan Corporation Ltd.,Cement
+76,JVDCPS,Javedan Corporation Ltd-Non Voting.,Cement
+77,KOHC,Kohat Cement Co. Ltd.,Cement
+78,LPCL,Lafarge Pakistan Cement Limited.,Cement
+79,LUCK,Lucky Cement Limited.,Cement
+80,MLCF,Maple Leaf Cement Factory Ltd.,Cement
+81,PIOC,Pioneer Cement Ltd.,Cement
+82,POWER,Power cement Limited,Cement
+83,POWERPS,Power cement Ltd. Preference Shares,Cement
+84,SMCPL,Safe Mix Concrete Ltd.,Cement
+85,THCCL,Thatta Cement Company Ltd.,Cement
+86,ZELP,Zeal Pak Cement Factory Ltd. [ DEFAULTER SEGMENT ],Cement
+87,AGL,Agritech Limited,Chemical
+88,AGLNCPS,Agritech Ltd Non-Voting (Pref) Class A,Chemical
+89,ARPL,Archroma Pakistan Limited.,Chemical
+90,BAPL,Bawany Air Products Ltd. [ DEFAULTER SEGMENT ],Chemical
+91,BERG,Berger Paints Pakistan Ltd.,Chemical
+92,BIFO,Bifo Industries Ltd.,Chemical
+93,BUXL,Buxly Paints Ltd.,Chemical
+94,COLG,Colgate Palmolive (Pak) Ltd.,Chemical
+95,DAAG,Data Agro Limited,Chemical
+96,DOL,Descon Oxychem Ltd.,Chemical
+97,DYNO,DYNEA Pak.,Chemical
+98,EPCL,Engro Polymer & Chemicals Ltd.,Chemical
+99,EPCLPS,Engro Polymer & Chemical Pref.Shares,Chemical
+100,GGL,Ghani Global Holdings Limited.,Chemical
+101,GTECH,G3 Technologies Limited,Chemical
+102,ICI,ICI Pakistan Limited.,Chemical
+103,ICL,Ittehad Chemical Ltd.,Chemical
+104,LOTCHEM,Lotte Chemical Pakistan Ltd.,Chemical
+105,LPGL,Leiner Pak Gelantine Limited.,Chemical
+106,NICL,Nimir Industrial Chemical Ltd.,Chemical
+107,NRSL,Nimir Resins Limited.,Chemical
+108,PAKOXY,Pakistan Oxygen Limited.,Chemical
+109,PPVC,Pakistan PVC [ DEFAULTER SEGMENT ],Chemical
+110,SARC,Sardar Chemical IndustriesLtd.,Chemical
+111,SHCI,Shaffi Chemical Ind. Ltd. [ DEFAULTER SEGMENT ],Chemical
+112,SITC,Sitara Chemicals.,Chemical
+113,SPL,Sitara Peroxide Limited,Chemical
+114,WAHN,Wah Noble Chemicals Ltd.,Chemical
+115,DOMF,Dominion Stock Fund [ DEFAULTER SEGMENT ],Close - end mutual fund
+116,HGFA,HBL Growth Fund,Close - end mutual fund
+117,HIFA,HBL Investment Fund,Close - end mutual fund
+118,INMF,Investec Mutual Fund [ DEFAULTER SEGMENT ],Close - end mutual fund
+119,PUDF,Prudential Stock Fund. [ DEFAULTER SEGMENT ],Close - end mutual fund
+120,TSMF,Tri - Star Mutual Fund Ltd.,Close - end mutual fund
+121,ABL,Allied Bank Ltd.,Commercial banks
+122,AKBL,Askari Bank Limited.,Commercial banks
+123,BAFL,Bank Alfalah Ltd.,Commercial banks
+124,BAHL,Bank Al-Habib Ltd.,Commercial banks
+125,BIPL,Bankislami Pakistan Ltd.,Commercial banks
+126,BOK,The Bank of Khyber.(XB),Commercial banks
+127,BOP,Bank Of Punjab.(XB),Commercial banks
+128,FABL,Faysal Bank Limited.,Commercial banks
+129,HBL,Habib Bank Limited.,Commercial banks
+130,HMB,Habib Metropolitan Bank Limited.,Commercial banks
+131,JSBL,JS Bank Limited.,Commercial banks
+132,MCB,MCB Bank Limited.,Commercial banks
+133,MEBL,Meezan Bank Limited.,Commercial banks
+134,NBP,National Bank Of Pakistan.(XD),Commercial banks
+135,SBL,Samba Bank Limited.,Commercial banks
+136,SCBPL,Standard Chartered Bank Pak Ltd.,Commercial banks
+137,SILK,Silk Bank Limited.,Commercial banks
+138,SMBL,Summit Bank Limited.,Commercial banks
+139,SNBL,Soneri Bank Ltd.,Commercial banks
+140,UBL,United Bank Ltd.,Commercial banks
+141,ADOS,Ados Pakistan Limited.,Engineering
+142,AGHA,Agha Steel Industries Ltd.,Engineering
+143,ASL,Aisha Steel Mills Limited.,Engineering
+144,ASLCPS,Aisha Steel Mills Convertible Cumul,Engineering
+145,ASLPS,Aisha Steel Mills Convertibl Pre-Sh,Engineering
+146,ASTL,Amreli Steels Limited.,Engineering
+147,BCL,Bolan Casting Ltd.,Engineering
+148,BECO,Beco Steel Limited,Engineering
+149,CSAP,Crescent Steel & Allied Product.,Engineering
+150,DADX,Dadex Eternit Ltd.,Engineering
+151,DSL,Dost Steels Ltd. [ DEFAULTER SEGMENT ],Engineering
+152,HSPI,Huffaz Seamless Pipe Industries. [ DEFAULTER SEGMENT ],Engineering
+153,INIL,International Industries Ltd.,Engineering
+154,ISL,International Steels Limited.,Engineering
+155,ITTEFAQ,Ittefaq Iron Industries Limited.,Engineering
+156,KSBP,KSB Pumps Co Ltd.,Engineering
+157,MSCL,Metropolitan Steel Corporation,Engineering
+158,MUGHAL,Mughal Iron & Steels Ind Ltd.,Engineering
+159,PECO,Pakistan Engineering Co Ltd. [ DEFAULTER SEGMENT ],Engineering
+160,QUSW,Quality Steel Works Ltd. [ DEFAULTER SEGMENT ],Engineering
+161,ACIETF,Alfalah Consumer Index ETF.,Exchange traded funds
+162,JSMFETF,JS Momentum Factor ETF,Exchange traded funds
+163,MZNPETF,Meezan Pakistan ETF,Exchange traded funds
+164,NBPGETF,NBP Pakistan Growth ETF,Exchange traded funds
+165,NITGETF,NIT Pakistan Gateway ETF.,Exchange traded funds
+166,UBLPETF,UBL Pakistan Enterprise ETF.,Exchange traded funds
+167,AHCL,Arif Habib Corporation Ltd.,Fertilizer
+168,EFERT,Engro Fertilizers Limited.,Fertilizer
+169,ENGRO,Engro Corporation Limited.,Fertilizer
+170,FATIMA,Fatima Fertilizer Co Ltd.,Fertilizer
+171,FFBL,Fauji Fertilizer Bin Qasim Ltd.,Fertilizer
+172,FFBLR,Fauji Fertilizer Bin Qasim Ltd.(R),Fertilizer
+173,FFC,Fauji Fertilizer Co. Ltd.,Fertilizer
+174,ASC,Al-Shaheer Corporation.,Food & personal care products
+175,ASCR,Al-Shaheer Corporation(R),Food & personal care products
+176,BNL,Bunnys Limited,Food & personal care products
+177,CLOV,Clover Pakistan Limited.,Food & personal care products
+178,FCEPL,Frieslandcampina Engro Pakistan Ltd.,Food & personal care products
+179,FFL,Fauji Foods Limited.,Food & personal care products
+180,GIL,Good Luck Industries Limited.,Food & personal care products
+181,GLPL,Gillette Pakistan Limited,Food & personal care products
+182,ISIL,Ismail Industries Ltd.,Food & personal care products
+183,MFFL,Mitchells Fruit Farms Ltd.,Food & personal care products
+184,MFL,Matco Foods Limited.,Food & personal care products
+185,MUREB,Murree Brewery Company Ltd.,Food & personal care products
+186,NATF,National Foods Ltd.,Food & personal care products
+187,NESTLE,Nestle Pakistan Ltd.,Food & personal care products
+188,NMFL,Nirala MSR Foods Limited [ DEFAULTER SEGMENT ],Food & personal care products
+189,PREMA,At-Tahur Ltd.,Food & personal care products
+190,QUICE,Quice Food Industries Ltd.,Food & personal care products
+191,RMPL,Rafhan Maize Products Ltd. (XD),Food & personal care products
+192,SCL,Shield Corporation Ltd.,Food & personal care products
+193,SHEZ,Shezan International Ltd.,Food & personal care products
+194,TOMCL,The Organic Meat Company Ltd.,Food & personal care products
+195,TREET,Treet Corporation Ltd.,Food & personal care products
+196,UNITY,Unity Foods Limited.,Food & personal care products
+197,UPFL,Unilever Pakistan Foods Ltd. (XD),Food & personal care products
+198,ZIL,ZIL Limited.,Food & personal care products
+199,BGL,Balochistan Glass Ltd.,Glass & ceramics
+200,FRCL,Frontier Ceramics Ltd.,Glass & ceramics
+201,GGGL,Ghani Global Glass Limited.,Glass & ceramics
+202,GHGL,Ghani Glass Ltd.,Glass & ceramics
+203,GHGLR2,Ghani Glass Ltd.(R2),Glass & ceramics
+204,GVGL,Ghani Value Glass Limited.,Glass & ceramics
+205,GVGLR2,Ghani Value Glass Limited.(R2),Glass & ceramics
+206,KCL,Karam Ceramics Mills Ltd.,Glass & ceramics
+207,REGAL,Regal Ceramics Ltd. [ DEFAULTER SEGMENT ],Glass & ceramics
+208,STCL,Shabbir Tiles and Ceramics Limited.,Glass & ceramics
+209,TGL,Tariq Glass.,Glass & ceramics
+210,AGIC,Askari Gen Insurance Co.,Insurance
+211,AICL,Adamjee Insurance Co. Ltd.,Insurance
+212,ALAC,Askari Life Assurance Company Ltd.,Insurance
+213,ALIFE,Adamjee Life Assurance Co. Ltd.,Insurance
+214,ASIC,Asia Insurance Company Ltd.,Insurance
+215,ATIL,Atlas Insurance Limited. (XD)(XB),Insurance
+216,BIIC,Business & Industrial Insuranc [ DEFAULTER SEGMENT ],Insurance
+217,CENI,Century Insurance Co.Ltd.,Insurance
+218,CSIL,Cresent Star Insurance Ltd.,Insurance
+219,EFUG,E. F. U. Gen Insurance Ltd. (XD),Insurance
+220,EFUL,EFU Life Assurance Ltd.,Insurance
+221,EWIC,East West Ins. Co. Ltd.,Insurance
+222,HICL,Habib Insurance Co Ltd. (XD),Insurance
+223,IGIHL,IGI Holdings Limited.,Insurance
+224,IGIL,IGI Life Insurance Ltd.,Insurance
+225,IGILR,IGI Life Insurance Ltd.(R),Insurance
+226,JGICL,Jubilee General Insurance Co.Ltd.,Insurance
+227,JLICL,Jubliee Life Insurance Co Ltd.,Insurance
+228,PAKRI,Pakistan Reinsurance Comp.,Insurance
+229,PIL,PICIC Insurance Ltd. [ DEFAULTER SEGMENT ],Insurance
+230,PINL,Premier Insurance Limited.,Insurance
+231,PKGI,Pakistan General Insurance Co. [ DEFAULTER SEGMENT ],Insurance
+232,PRIC,Progressive Insurance Co Ltd. [ DEFAULTER SEGMENT ],Insurance
+233,RICL,Reliance Insurance.,Insurance
+234,SHNI,Shaheen Insurance Co Ltd.,Insurance
+235,SICL,Standard Insurance Co.Ltd [ DEFAULTER SEGMENT ],Insurance
+236,SSIC,Silver Star Insurance Co. [ DEFAULTER SEGMENT ],Insurance
+237,TPLI,TPL Insurance Ltd.,Insurance
+238,UNIC,United Insurance Company.,Insurance
+239,UVIC,Universal Insurance Company Ltd.,Insurance
+240,786,786 Investments Limited,Inv. banks / inv. cos. / securities cos.
+241,AHL,Arif Habib Limited.,Inv. banks / inv. cos. / securities cos.
+242,AMBL,Apna Microfinance Bank Limited.,Inv. banks / inv. cos. / securities cos.
+243,AMSL,Al-Mal Securities & Services L [ DEFAULTER SEGMENT ],Inv. banks / inv. cos. / securities cos.
+244,BIPLS,BIPL Securities Ltd. (XD),Inv. banks / inv. cos. / securities cos.
+245,CASH,Calcorp Limited,Inv. banks / inv. cos. / securities cos.
+246,CYAN,Cyan Limited.,Inv. banks / inv. cos. / securities cos.
+247,DAWH,Dawood Hercules Corporation Ltd.,Inv. banks / inv. cos. / securities cos.
+248,DEL,Dawood Equities Ltd.,Inv. banks / inv. cos. / securities cos.
+249,DLL,Dawood Lawrencepur Ltd.,Inv. banks / inv. cos. / securities cos.
+250,EFGH,EFG Hermes Pakistan Ltd.,Inv. banks / inv. cos. / securities cos.
+251,ESBL,Escorts Investment Bank Ltd.,Inv. banks / inv. cos. / securities cos.
+252,ESBLR,Escorts Investment Bank Ltd.(R),Inv. banks / inv. cos. / securities cos.
+253,FCEL,First Capital Equities Ltd. [ DEFAULTER SEGMENT ],Inv. banks / inv. cos. / securities cos.
+254,FCIBL,First Credit & Investment Bank Ltd.,Inv. banks / inv. cos. / securities cos.
+255,FCSC,First Capital Sec.Corp. Ltd.,Inv. banks / inv. cos. / securities cos.
+256,FDIBL,First Dawood Investment Bank Ltd.,Inv. banks / inv. cos. / securities cos.
+257,FNEL,First National Equities Limited.,Inv. banks / inv. cos. / securities cos.
+258,ICIBL,Invest Capital Investment Bank Ltd.,Inv. banks / inv. cos. / securities cos.
+259,IML,Imperial Limited,Inv. banks / inv. cos. / securities cos.
+260,JSCL,Jahangir Siddiqui & Company Ltd.,Inv. banks / inv. cos. / securities cos.
+261,JSCLPSA,Jahangir Siddiqui & Co. (Non-V Preferen),Inv. banks / inv. cos. / securities cos.
+262,JSGCL,JS Global Capital Limited.,Inv. banks / inv. cos. / securities cos.
+263,JSIL,JS Investments Limited.,Inv. banks / inv. cos. / securities cos.
+264,MCBAH,MCB-Arif Habib Savings & Invest Ltd.,Inv. banks / inv. cos. / securities cos.
+265,NEXT,Next Capital Limited.,Inv. banks / inv. cos. / securities cos.
+266,OLPL,OLP Financial Services Pakistan Limited,Inv. banks / inv. cos. / securities cos.
+267,PASL,Pervez Ahmed Consultancy Services Ltd. [ DEFAULTER SEGMENT ],Inv. banks / inv. cos. / securities cos.
+268,PDGH,Prudential Discount & Guarante [ DEFAULTER SEGMENT ],Inv. banks / inv. cos. / securities cos.
+269,PRIB,Prudential Investment Bank [ DEFAULTER SEGMENT ],Inv. banks / inv. cos. / securities cos.
+270,PSX,Pakistan Stock Exchange Limited.,Inv. banks / inv. cos. / securities cos.
+271,SIBL,Security Investment Bank Ltd.,Inv. banks / inv. cos. / securities cos.
+272,TRIBL,Trust Investment Bank Ltd. [ DEFAULTER SEGMENT ],Inv. banks / inv. cos. / securities cos.
+273,TSBL,Trust Securities & Brokerage.,Inv. banks / inv. cos. / securities cos.
+274,TSBLR,Trust Securities & Brokerage.(R),Inv. banks / inv. cos. / securities cos.
+275,CJPL,Crescent Jute Products Ltd. [ DEFAULTER SEGMENT ],Jute
+276,SUHJ,Sohail Jute Mills Ltd. [ DEFAULTER SEGMENT ],Jute
+277,ENGL,English Leasing [ DEFAULTER SEGMENT ],Leasing companies
+278,GRYL,Grays Leasing Ltd.,Leasing companies
+279,PGLC,Pak Gulf Leasing Co Ltd.,Leasing companies
+280,PICL,Pakistan Industrial & Comm.Lea. [ DEFAULTER SEGMENT ],Leasing companies
+281,SLCL,Security Leasing Corp. [ DEFAULTER SEGMENT ],Leasing companies
+282,SLCPA,Security Leasing Corp (Pref) 9.1%,Leasing companies
+283,SLL,SME Leasing Ltd.,Leasing companies
+284,SPLC,Saudi Pak Leasing Co. [ DEFAULTER SEGMENT ],Leasing companies
+285,SPLCTFC3,Saudi Pak Leasing Co.Ltd [ DEFAULTER SEGMENT ],Leasing companies
+286,BATA,Bata Pakistan Ltd.,Leather & tanneries
+287,FIL,Fateh Industries Ltd. [ DEFAULTER SEGMENT ],Leather & tanneries
+288,LEUL,Leather Up Ltd.,Leather & tanneries
+289,PAKL,Pak Leather Crafts Ltd. [ DEFAULTER SEGMENT ],Leather & tanneries
+290,SGF,Service Global Footwear Limited,Leather & tanneries
+291,SRVI,Service Industries.,Leather & tanneries
+292,AKDHL,AKD Hospitality Limited,Miscellaneous
+293,AKGL,Al-Khair Gadoon Ltd.,Miscellaneous
+294,ARPAK,Arpak International Investment.,Miscellaneous
+295,DCTL,Dadabhoy Construction Technology Ltd. [ DEFAULTER SEGMENT ],Miscellaneous
+296,DIIL,Dimond Industries Ltd. [ DEFAULTER SEGMENT ],Miscellaneous
+297,ECOP,ECOPAK Limited.,Miscellaneous
+298,GAMON,Gammon Pak.,Miscellaneous
+299,GOC,GOC (PAK) Limited.,Miscellaneous
+300,HACC,Hashimi Can Co Ltd. [ DEFAULTER SEGMENT ],Miscellaneous
+301,HADC,Hayderi Construction. [ DEFAULTER SEGMENT ],Miscellaneous
+302,MACFL,MACPAC Films Limited.,Miscellaneous
+303,MWMP,Mandviwala Mauser Plastic Ind. Ltd. [ DEFAULTER SEGMENT ],Miscellaneous
+304,OML,Olympia Mills Limited.,Miscellaneous
+305,PABC,Pakistan Aluminium Beverage Cans Ltd,Miscellaneous
+306,PACE,Pace (Pakistan) Ltd.,Miscellaneous
+307,PHDL,Pakistan Hotels Developers Ltd.,Miscellaneous
+308,PSEL,Pakistan Services Limited.,Miscellaneous
+309,SHFA,Shifa Int. Hospital Ltd.,Miscellaneous
+310,SPEL,Synthetic Products Ent. Ltd.,Miscellaneous
+311,STPL,Siddiqsons Tin Plate Ltd.,Miscellaneous
+312,TPLP,TPL Properties Limited.,Miscellaneous
+313,TRIPF,Tri-Pack Films Ltd. (XD),Miscellaneous
+314,UBDL,United Brands Limited.,Miscellaneous
+315,UDPL,United Distributors Pakistan.,Miscellaneous
+316,ARM,Allied Rental Modaraba.,Modarabas
+317,AWWAL,Awwal Modaraba.,Modarabas
+318,BFMOD,B.F.Modaraba.,Modarabas
+319,BRR,B.R.R. Guardian Modaraba.,Modarabas
+320,FANM,First Al-Noor Mod.,Modarabas
+321,FCONM,First Constellation Modaraba.,Modarabas
+322,FECM,First Elite Capital Mod.,Modarabas
+323,FEM,First Equity Mod.,Modarabas
+324,FFLM,First Fidelity Leasing Mod.,Modarabas
+325,FHAM,First Habib Mod.,Modarabas
+326,FIBLM,First IBL Modaraba.,Modarabas
+327,FIM,First Investec Modarba [ DEFAULTER SEGMENT ],Modarabas
+328,FIMM,First Imrooz Mod.,Modarabas
+329,FNBM,First National Bank Modaraba. [ DEFAULTER SEGMENT ],Modarabas
+330,FPJM,First Punjab Mod.,Modarabas
+331,FPRM,First Paramount Mod.,Modarabas
+332,FTMM,First Treet Manufacturing Modaraba.,Modarabas
+333,FTSM,First Tri-Star Mod.,Modarabas
+334,FUDLM,First UDL Mod.,Modarabas
+335,HMM,Habib Metro Modaraba.,Modarabas
+336,KASBM,KASB Modaraba.,Modarabas
+337,MODAM,Modarba Al-Mali.,Modarabas
+338,OLPM,OLP Modaraba.,Modarabas
+339,ORM,Orient Rental Modaraba.,Modarabas
+340,PAKMI,First Pak Mod.,Modarabas
+341,PIM,Popular Islamic Madaraba,Modarabas
+342,PMI,First Prudential Mod.,Modarabas
+343,SINDM,Sindh Modaraba.,Modarabas
+344,TRSM,Trust Mod.,Modarabas
+345,UCAPM,Unicap Modaraba.,Modarabas
+346,MARI,Mari Petroleum Company Ltd.,Oil & gas exploration companies
+347,OGDC,Oil & Gas Development Company Ltd.,Oil & gas exploration companies
+348,POL,Pakistan Oilfields Limited.,Oil & gas exploration companies
+349,PPL,Pakistan Petroleum Limited.,Oil & gas exploration companies
+350,APL,Attock Petroleum Limited.,Oil & gas marketing companies
+351,BPL,Burshane LPG (Pakistan) Limited.,Oil & gas marketing companies
+352,HASCOL,Hascol Petroleum Ltd. [ DEFAULTER SEGMENT ],Oil & gas marketing companies
+353,HASCOLR1,Hascol Petroleum Ltd.(R),Oil & gas marketing companies
+354,HTL,Hi-Tech Lubricants Limited.,Oil & gas marketing companies
+355,OBOY,Oilboy Energy Limited (XR),Oil & gas marketing companies
+356,PSO,Pakistan State Oil Co Ltd.,Oil & gas marketing companies
+357,SHEL,Shell Pakistan Ltd.,Oil & gas marketing companies
+358,SNGP,Sui Northern Gas Pipe Line Ltd.,Oil & gas marketing companies
+359,SSGC,Sui Southern Gas Co Ltd.,Oil & gas marketing companies
+360,ABSON,Abson Industries Limited [ DEFAULTER SEGMENT ],Paper & board
+361,CEPB,Century Paper & Board Mills.,Paper & board
+362,CPPL,Cherat Packaging Limited.,Paper & board
+363,DBSL,Dadabhoy Sack Ltd. [ DEFAULTER SEGMENT ],Paper & board
+364,GEMPAPL,Pak Agro Packaging Limited,Paper & board
+365,MERIT,Merit Packaging Ltd.,Paper & board
+366,PKGS,Packages Ltd.,Paper & board
+367,PPP,Pakistan Paper Products Ltd.,Paper & board
+368,RPL,Roshan Packages Limited.,Paper & board
+369,SEPL,Security Papers Ltd.,Paper & board
+370,ABOT,Abbott Laboratories Pak Ltd. (XD),Pharmaceuticals
+371,AGP,AGP Limited. (XD),Pharmaceuticals
+372,CPHL,Citi Pharma Limited,Pharmaceuticals
+373,FEROZ,Ferozsons Laboratories Ltd.,Pharmaceuticals
+374,GLAXO,Glaxo SmithKline Pakistan Ltd. (XD),Pharmaceuticals
+375,GSKCH,Glaxo SmithKline Healthcare Pak Ltd.,Pharmaceuticals
+376,HINOON,Highnoon Laboratories Ltd. (XD)(XB),Pharmaceuticals
+377,IBLHL,IBL HealthCare Limited.,Pharmaceuticals
+378,MACTER,Macter International Limited.,Pharmaceuticals
+379,OTSU,Otsuka Pakistan Ltd.,Pharmaceuticals
+380,SAPL,Sanofi-Aventis Pakistan Ltd. (XD),Pharmaceuticals
+381,SEARL,The Searle Company Ltd.,Pharmaceuticals
+382,WYETH,Wyeth Pakistan Limited.(XD),Pharmaceuticals
+383,AEL,Arshad Energy Limited. [ DEFAULTER SEGMENT ],Power generation & distribution
+384,ALTN,Altern Energy Ltd.,Power generation & distribution
+385,EPQL,Engro Powergen Qadirpur Ltd.,Power generation & distribution
+386,HUBC,Hub Power Company Limited.,Power generation & distribution
+387,JPGL,Japan Power Generation Ltd. [ DEFAULTER SEGMENT ],Power generation & distribution
+388,KAPCO,Kot Addu Power Company.,Power generation & distribution
+389,KEL,K-Electric Limited.,Power generation & distribution
+390,KOHE,Kohinoor Energy Ltd.,Power generation & distribution
+391,KOHP,Kohinoor Power Co Ltd.,Power generation & distribution
+392,LPL,LALPIR Power Limited.,Power generation & distribution
+393,NCPL,Nishat Chunian Power Ltd.,Power generation & distribution
+394,NPL,Nishat Power Limited.,Power generation & distribution
+395,PKGP,Pakgen Power Limited.,Power generation & distribution
+396,SEL,Sitara Enengy Ltd.,Power generation & distribution
+397,SGPL,S. G. Power Ltd.,Power generation & distribution
+398,SPWL,Saif Power Ltd.,Power generation & distribution
+399,TSPL,Tri -Star Power Ltd.,Power generation & distribution
+400,DCR,Dolmen City REIT.,Real estate investment trust
+401,ATRL,Attock Refinery Limited.,Refinery
+402,CNERGY,Cnergyico PK Limited.,Refinery
+403,NRL,National Refinary Ltd.,Refinery
+404,PRL,Pakistan Refinery Ltd.,Refinery
+405,BKTI-APR,Stock Index Future Contract,Stock index future contracts
+406,BKTI-JUN,Stock Index Future Contract,Stock index future contracts
+407,BKTI-MAR,Stock Index Future Contract,Stock index future contracts
+408,BKTI-MAY,Stock Index Future Contract,Stock index future contracts
+409,BKTI-OCT,Stock Index Future Contract,Stock index future contracts
+410,KSE30-APR,Stock Index Future Contract,Stock index future contracts
+411,KSE30-JUN,Stock Index Future Contract,Stock index future contracts
+412,KSE30-MAR,Stock Index Future Contract,Stock index future contracts
+413,KSE30-MAY,Stock Index Future Contract,Stock index future contracts
+414,KSE30-OCT,Stock Index Future Contract,Stock index future contracts
+415,OGTI-APR,Stock Index Future Contract,Stock index future contracts
+416,OGTI-JUN,Stock Index Future Contract,Stock index future contracts
+417,OGTI-MAR,Stock Index Future Contract,Stock index future contracts
+418,OGTI-MAY,Stock Index Future Contract,Stock index future contracts
+419,OGTI-OCT,Stock Index Future Contract,Stock index future contracts
+420,AABS,Al-Abbas Sugar Mills Ltd.,Sugar & allied industries
+421,ADAMS,Adam Sugar Mills Limited.,Sugar & allied industries
+422,AGSML,Abdullah Shah Ghazi Sugar Mills Ltd.,Sugar & allied industries
+423,ALNRS,Al-Noor Sugar Mills Ltd.,Sugar & allied industries
+424,ANSM,Ansari Sugar Mills Ltd. [ DEFAULTER SEGMENT ],Sugar & allied industries
+425,BAFS,Baba Faried Sugar Mills Ltd.,Sugar & allied industries
+426,CHAS,Chashma Sugar Mills Ltd.,Sugar & allied industries
+427,DWSM,Dewan Sugar Mills Ltd. [ DEFAULTER SEGMENT ],Sugar & allied industries
+428,FRSM,Faran Sugar Mills Ltd.,Sugar & allied industries
+429,HABSM,Habib Sugar Mills Ltd.,Sugar & allied industries
+430,HRPL,Habib Rice Product Ltd.,Sugar & allied industries
+431,HSM,Husein Sugar Mills Limited.,Sugar & allied industries
+432,HSMCPS,Husein Sugar Mills Limited.(Pref-Shar),Sugar & allied industries
+433,HWQS,Haseeb Waqas Sugar Mills Limit [ DEFAULTER SEGMENT ],Sugar & allied industries
+434,JDWS,J. D. W. Sugar Mills Ltd.,Sugar & allied industries
+435,JSML,Jauharabad Sugar Mills Ltd.,Sugar & allied industries
+436,KPUS,Khairpur Sugar Mills Ltd.,Sugar & allied industries
+437,MIRKS,Mirpurkhas Sugar Mills Ltd.,Sugar & allied industries
+438,MRNS,Mehran Sugar Mills Ltd.,Sugar & allied industries
+439,NONS,Noon Sugar Mills Ltd.,Sugar & allied industries
+440,PMRS,Premier Sugar Mills & Distille,Sugar & allied industries
+441,SANSM,Sanghar Sugar Mills Ltd.,Sugar & allied industries
+442,SASML,Sindh Abadgars Sugar Mills Ltd.,Sugar & allied industries
+443,SHJS,Shahtaj Sugar Mills Ltd.,Sugar & allied industries
+444,SHSML,Shahmurad Sugar Mills Ltd.,Sugar & allied industries
+445,SKRS,Sakrand Sugar Mills Ltd. [ DEFAULTER SEGMENT ],Sugar & allied industries
+446,SML,Shakarganj Limited.,Sugar & allied industries
+447,TICL,Thal Industries Corporation Ltd.,Sugar & allied industries
+448,TSML,Tandliawala Sugar Mills Ltd.,Sugar & allied industries
+449,AASM,Al-Abid Silk Mills Limited. [ DEFAULTER SEGMENT ],Synthetic & rayon
+450,DSFL,Dewan Sulman Fibre Ltd. [ DEFAULTER SEGMENT ],Synthetic & rayon
+451,GATI,Gatron (Industries) Ltd.,Synthetic & rayon
+452,IBFL,Ibrahim Fibre Limited.,Synthetic & rayon
+453,IMAGE,Image Pakistan Limited,Synthetic & rayon
+454,NAFL,National Fibres Ltd. [ DEFAULTER SEGMENT ],Synthetic & rayon
+455,NSRM,The National Silk & Rayon Mills Ltd.,Synthetic & rayon
+456,PSYL,Pakistan Synthetics Ltd.,Synthetic & rayon
+457,RUPL,Rupali Polyester Ltd.,Synthetic & rayon
+458,SGABL,S.G. Allied Businesses Limited,Synthetic & rayon
+459,AIRLINK,Air Link Communication Limited,Technology & communication
+460,AVN,Avanceon Limited.,Technology & communication
+461,HCL,Hallmark Company Limited.,Technology & communication
+462,HUMNL,Hum Network Limited.,Technology & communication
+463,MDTL,Media Times Limited.,Technology & communication
+464,NETSOL,NetSol Technologies Ltd.,Technology & communication
+465,OCTOPUS,Octopus Digital Limited,Technology & communication
+466,PAKD,Pak Datacom Limited.,Technology & communication
+467,PTC,Pakistan Telecommunication Co.,Technology & communication
+468,SYS,Systems Limited.(XD)(XB),Technology & communication
+469,TELE,Telecard Ltd.,Technology & communication
+470,TPL,TPL CORP Limited.,Technology & communication
+471,TPLT,TPL Trakker Limited.,Technology & communication
+472,TRG,TRG Pakistan Ltd.,Technology & communication
+473,WTL,Worldcall Telecom Ltd.,Technology & communication
+474,ADMM,Artistic Denim Mills Limited.,Textile composite
+475,AHTM,Ahmed Hassan Textile Mills Ltd.,Textile composite
+476,ANL,Azgard Nine Limited.,Textile composite
+477,ANLNV,Azgard Nine. (Non-Voting).,Textile composite
+478,ANLNVR,Azgard Nine. (Non-Voting).(R),Textile composite
+479,ANLPS,Azgard Nine (Pref),Textile composite
+480,ANLR,Azgard Nine Limited.(R),Textile composite
+481,ANTM,AN Textile Mills Ltd.,Textile composite
+482,ARUJ,Aruj Industries Limited.,Textile composite
+483,BHAT,Bhanero Textile Mills Ltd.,Textile composite
+484,BTL,Blessed Textile Ltd.,Textile composite
+485,CHBL,Chenab Limited [ DEFAULTER SEGMENT ],Textile composite
+486,CLCPS,Chenab Limited Preference Shares. [ DEFAULTER SEGMENT ],Textile composite
+487,CRTM,Crescent Textile Mills Ltd.,Textile composite
+488,FASM,Faisal Spinning Mills Ltd.,Textile composite
+489,FML,Feroze1888 Mills Ltd.,Textile composite
+490,FSWL,Fateh Sports Wear Ltd. [ DEFAULTER SEGMENT ],Textile composite
+491,FTHM,Fateh Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile composite
+492,FZCM,Fazal Cloth Mills Ltd.,Textile composite
+493,GATM,Gul Ahmed Textile Mills Ltd.,Textile composite
+494,GFIL,Ghazi Fabrics International Ltd.,Textile composite
+495,HAEL,Hala Enterprises Limited,Textile composite
+496,HAFL,Hafiz Limited.,Textile composite
+497,HATM,Hamid Textile Mills Limited [ DEFAULTER SEGMENT ],Textile composite
+498,HUSI,Husein Industries,Textile composite
+499,ILP,Interloop Limited.,Textile composite
+500,INKL,International Knitwear Ltd.,Textile composite
+501,JUBS,Jubilee Spinning & Weaving Mil [ DEFAULTER SEGMENT ],Textile composite
+502,KAKL,Kaisar Arts & Krafts Ltd. [ DEFAULTER SEGMENT ],Textile composite
+503,KHYT,Khyber Textile Mills Ltd.,Textile composite
+504,KML,Kohinoor Mills Ltd.,Textile composite
+505,KOIL,Kohinoor Industries Ltd.,Textile composite
+506,KTML,Kohinoor Textile Mills Ltd.,Textile composite
+507,MEHT,Mehmood Textile Mills Ltd.,Textile composite
+508,MFTM,Mohammed Farooq Textile Mills [ DEFAULTER SEGMENT ],Textile composite
+509,MSOT,Masood Textile Mills Ltd.,Textile composite
+510,MSOTPS,Masood Textile Mills Ltd.(PS).,Textile composite
+511,MUBT,Mubarak Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile composite
+512,NCL,Nishat (Chunia) Ltd.,Textile composite
+513,NINA,M/S Nina Industries Ltd. [ DEFAULTER SEGMENT ],Textile composite
+514,NML,Nishat Mills Ltd.,Textile composite
+515,PASM,Paramount Spinning Mills. [ DEFAULTER SEGMENT ],Textile composite
+516,QUET,Quetta Textile Mills Ltd.,Textile composite
+517,REDCO,Redco Textile Ltd.,Textile composite
+518,REWM,Reliance Weaving Mills Ltd.,Textile composite
+519,SAPT,Sapphire Textile Mills Ltd.,Textile composite
+520,SCHT,Schon Textile Ltd. [ DEFAULTER SEGMENT ],Textile composite
+521,SFAT,Safa Textiles Ltd. [ DEFAULTER SEGMENT ],Textile composite
+522,SFL,Sapphire Fibres Mills Ltd.,Textile composite
+523,STML,Shams Textile Mills Ltd.,Textile composite
+524,SURC,Suraj Cotton Mills Ltd.,Textile composite
+525,TAJT,Taj Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile composite
+526,TOWL,Towellers Ltd.,Textile composite
+527,USMT,Usman Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile composite
+528,ZAHID,Zahidjee Textile Mills Ltd.,Textile composite
+529,ZHCM,Zahur Cotton Mills [ DEFAULTER SEGMENT ],Textile composite
+530,AAL,Agro Allianz limited.,Textile spinning
+531,AATM,Ali Asghar Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+532,AMTEX,Amtex Limited. [ DEFAULTER SEGMENT ],Textile spinning
+533,ANNT,Annor Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+534,APOT,Apollo Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+535,ASTM,Asim Textile Mills Ltd.,Textile spinning
+536,AWTX,Allawasaya Tex. & Finishing Mills.,Textile spinning
+537,AZMT,Azmat Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+538,BCML,Babri Cotton Mills Ltd.,Textile spinning
+539,BILF,Bilal Fibres Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+540,CCM,Crescent Cotton Mills Limited.,Textile spinning
+541,CFL,Crescent Fibres Limited.,Textile spinning
+542,CTM,Colony Textile Mills Ltd.,Textile spinning
+543,CWSM,Chakwal Spinning Mills Limited. [ DEFAULTER SEGMENT ],Textile spinning
+544,DATM,Data Textile Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+545,DFSM,Dewan Farooque Spinning Mills Ltd.,Textile spinning
+546,DINT,Din Textile Mills Ltd.,Textile spinning
+547,DKTM,Dewan Khalid Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+548,DMTM,Dewan Mushtaq Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+549,DMTX,D. M. Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+550,DSIL,D. S. Industries Ltd.,Textile spinning
+551,DSML,Dar-es-Salam Textile Mills Ltd [ DEFAULTER SEGMENT ],Textile spinning
+552,DWTM,Dewan Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+553,ELCM,Elahi Cotton Mills Ltd.,Textile spinning
+554,ELSM,Ellcot Spinning Mills Ltd.,Textile spinning
+555,FAEL,Fatima Enterprises Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+556,GADT,Gadoon Textile Mills Ltd.,Textile spinning
+557,GLOT,Globe Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+558,GSPM,Gulshan Spinning Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+559,GUSM,Gulistan Spinning Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+560,GUTM,Gulistan Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+561,HAJT,Hajra Textile Milla Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+562,HIRAT,Hira Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+563,HMIM,Haji Mohammed Ismail Mills Lim [ DEFAULTER SEGMENT ],Textile spinning
+564,IDRT,Idrees Textile Mills Ltd.,Textile spinning
+565,IDSM,Ideal Spinning Mills Ltd.,Textile spinning
+566,IDYM,Indus Dyeing & Manufacturing.,Textile spinning
+567,JATM,J. A. Textile Mills Ltd.,Textile spinning
+568,JDMT,Janana De Malucha Tex Mills.,Textile spinning
+569,JKSM,J. K. Spinning Mills Ltd.,Textile spinning
+570,KHSM,Khurshid Spinning Mills Ltd.,Textile spinning
+571,KOHTM,Kohat Textile Mills Ltd.,Textile spinning
+572,KOSM,Kohinoor Spinning Mills Ltd.,Textile spinning
+573,KSTM,Khalid Siraj Textile Mills Ltd [ DEFAULTER SEGMENT ],Textile spinning
+574,LMSM,Landmark Spinning Mills Limite [ DEFAULTER SEGMENT ],Textile spinning
+575,MQTM,Maqbool Textile Mills Ltd.,Textile spinning
+576,NAGC,Nagina Cotton Mills Ltd.,Textile spinning
+577,NATM,Nadeem Textile Mills Ltd.,Textile spinning
+578,NCML,Nazir Cotton Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+579,PRET,Premium Textile Mills Ltd.,Textile spinning
+580,RCML,Reliance Cotton Spinning Mills.,Textile spinning
+581,RUBY,Ruby Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+582,SAIF,Saif Textile Mills Ltd.,Textile spinning
+583,SANE,Salman Noman Enterprises Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+584,SERT,Service Textile Mills Ltd.,Textile spinning
+585,SHCM,Shadman Cotton Mills Ltd.,Textile spinning
+586,SHDT,Shadab Textile Mills Ltd.,Textile spinning
+587,SLYT,Sally Textile Mills Ltd. [ DEFAULTER SEGMENT ],Textile spinning
+588,SNAI,Sana Industries Ltd.,Textile spinning
+589,SSML,Saritow Spinning Mills Ltd.,Textile spinning
+590,SUTM,Sunrays Textile Mills Ltd.,Textile spinning
+591,SZTM,Shahzad Textile Mills Ltd.,Textile spinning
+592,TATM,Tata Textile Mills Ltd.,Textile spinning
+593,ASHT,Ashfaq Textile Mills Ltd.,Textile weaving
+594,HKKT,Hakkim Textile Mills Limited [ DEFAULTER SEGMENT ],Textile weaving
+595,ICCI,ICC Industries Ltd. [ DEFAULTER SEGMENT ],Textile weaving
+596,MOHE,Mohib Exports Ltd. [ DEFAULTER SEGMENT ],Textile weaving
+597,PRWM,Prosperity Weaving Mills Ltd.,Textile weaving
+598,SDOT,Sadoon Textile Industries Ltd. [ DEFAULTER SEGMENT ],Textile weaving
+599,SMTM,Samin Textiles Ltd.,Textile weaving
+600,STJT,Shahtaj Textile Ltd.,Textile weaving
+601,YOUW,Yousuf Weaving Mills Limited.,Textile weaving
+602,ZTL,Zephyr Textile Limited.,Textile weaving
+603,KHTC,Khyber Tobacco Co. Ltd.,Tobacco
+604,PAKT,Pakistan Tobacco Co Ltd. (XD),Tobacco
+605,PMPK,Philip Morris (Pakistan)Ltd.,Tobacco
+606,CLVL,Cordoba Logistics & Ventures Limited,Transport
+607,GEMUNSL,Universal Network Systems Limited,Transport
+608,PIAA,Pak International Airline Corp Ltd,Transport
+609,PIAB,Pakistan International Airline Corp Ltd,Transport
+610,PIBTL,Pakistan Intl. Bulk Terminal Ltd.,Transport
+611,PICT,Pakistan Int.Container Terminal. (XD),Transport
+612,PNSC,Pakistan National Shipping Co.,Transport
+613,EXTR,Extraction (Pakistan) [ DEFAULTER SEGMENT ],Vanaspati & allied industries
+614,POML,Punjab Oil Mills Ltd.,Vanaspati & allied industries
+615,SSOM,S .S . Oil Mills Ltd.,Vanaspati & allied industries
+616,SURAJ,Suraj Ghee Industries [ DEFAULTER SEGMENT ],Vanaspati & allied industries
+617,BNWM,Bannu Woollen Mills Limited.,Woollen

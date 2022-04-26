@@ -1,0 +1,1319 @@
+AGTL	Al-Ghazi Tractors Limited.
+ATLH	Atlas Honda Limited.
+DFML	Dewan Farooque Motors Limited [ DEFAULTER SEGMENT ]
+GHNI	Ghandhara Industries Ltd.
+GHNL	Ghandhara Nissan Ltd.
+HCAR	Honda Atlas Cars (Pak) Ltd.
+HINO	Hino Pak Motor Limited.
+INDU	Indus Motor Company Ltd.
+MTL	Millat Tractors Limited.
+PSMC	Pak Suzuki Motors Co Ltd. (XD)
+SAZEW Sazgar Engineering Works Ltd.
+SAZEWR Sazgar Engineering Works Ltd.(R)
+AGIL	Agriautos Industries Co. Ltd.
+ATBA	Atlas Battery Ltd.
+BELA	Bela Automotives Ltd. [ DEFAULTER SEGMENT ]
+BWHL	Baluchistan Wheels Ltd.
+DWAE	Dewan Automotive Engineering Ltd. [ DEFAULTER SEGMENT ]
+EXIDE	Exide Pakistan Ltd.
+GTYR	Ghandhara Tyre & Rubber Company Ltd.
+LOADS	Loads Limited.
+PTL	Panther Tyres Limited
+THALL	Thal Limited.
+AGSILSC	Agha Steel Industries Ltd.(SUKUK)
+AKBLTFC6	Askari Bank Ltd.(TFC)
+AKBLTFC7	Askari Bank Ltd.(TFC7)
+AZLCLTFC2	Al-Zamin Leasing Corporation(2nd Issue) [ DEFAULTER SEGMENT ]
+BAFLTFC6	Bank Alfalah Limited.(TFC6)
+BAFLTFC7	Bank Alfalah Limited.(TFC7)
+BIPLSC	Bankislami Pakistan Ltd.-SUKUK
+CNERGYSC	Cnergyico PK Limited.(SUKUK)
+EPCLSC	Engro Polymer & Chemicals Ltd.(SUKUK)
+HBLTFC2	Habib Bank Limited.(TFC2)
+HUBCSC2	Hub Power Company Limited.(SUKUK)
+HUBCSC4	Hub Power Company Limited.(SUKUK)
+HUBPHLSC	Hub Power Holding Limited SUKUK
+JSBLTFC1	JS Bank Limited (TFC1)
+JSBLTFC2	JS Bank Limited (TFC2)
+JSTFC11	Jahangir Siddiqui & Co. Limited-TFC11
+KELSC4	K-Electric Limited-SUKUK-4
+KELSC5	K-Electric Limited-SUKUK-5
+KFTFC1	KASHF Foundation
+MUGHALSC	Mughal Iron & Steel SUKUK
+NEXTCP	Next Capital Limited (CP)
+NSB10Y1	National Savings Bonds
+PACETFC	PACE Pakistan Ltd.(TFC) [ DEFAULTER SEGMENT ]
+PESC1	Pakistan Energy SUKUK-1
+PESC2	Pakistan Energy SUKUK-2
+SBLTFC	Samba Bank Limited (TFC)
+SMBLTFC	SUMMIT Bank Limited.(TFC)
+SNBLTFC2	Soneri Bank Limited(TFC2)
+SNBLTFC3	Soneri Bank Limited(TFC3)
+TELETFC	Telecard Ltd.(TFC)
+TFCTRIBL	Trust Investment Bank Ltd. [ DEFAULTER SEGMENT ]
+UBLTFC5	United Bank Limited(TFC-5)
+WTLTFC3	Worldcall Lelecom Ltd.
+EMCO	EMCO Industries Ltd.
+JOPP	Johnson & Philips (Pak) Ltd.
+PAEL	Pak Elektron Ltd.
+PAELR3	Pakistan Elektron Ltd.(R3)
+PCAL	Pakistan Cables Ltd.
+PELPS	Pakistan Elektron Ltd.(PS)
+SIEM	Siemens (Pak) Eng. Co. Ltd.
+WAVES	WAVES Singer Pakistan Ltd.
+ACPL	Attock Cement Pak Ltd.
+BWCL	Bestway Cement Limited.
+CHCC	Cherat Cement Co. Ltd.
+DBCI	Dadabhoy Cement Industries Ltd [ DEFAULTER SEGMENT ]
+DCL	Dewan Cement Limited.
+DGKC	D. G. Khan Cement Co. Ltd.
+DNCC	Dandot Cement Co. Ltd. [ DEFAULTER SEGMENT ]
+FCCL	Fauji Cement Co Ltd.
+FECTC	Fecto Cement Ltd.
+FLYNG	Flying Cement Company Ltd.
+FLYNGR1	Flying Cement Company Ltd.(R1)
+GWLC	Gharibwal Cement Ltd.
+JVDC	Javedan Corporation Ltd.
+JVDCPS	Javedan Corporation Ltd-Non Voting.
+KOHC	Kohat Cement Co. Ltd.
+LPCL	Lafarge Pakistan Cement Limited.
+LUCK	Lucky Cement Limited.
+MLCF	Maple Leaf Cement Factory Ltd.
+PIOC	Pioneer Cement Ltd.
+POWER	Power cement Limited
+POWERPS	Power cement Ltd. Preference Shares
+SMCPL	Safe Mix Concrete Ltd.
+THCCL	Thatta Cement Company Ltd.
+ZELP	Zeal Pak Cement Factory Ltd. [ DEFAULTER SEGMENT ]
+ACPL	Attock Cement Pak Ltd.
+BWCL	Bestway Cement Limited.
+CHCC	Cherat Cement Co. Ltd.
+DBCI	Dadabhoy Cement Industries Ltd [ DEFAULTER SEGMENT ]
+DCL	Dewan Cement Limited.
+DGKC	D. G. Khan Cement Co. Ltd.
+DNCC	Dandot Cement Co. Ltd. [ DEFAULTER SEGMENT ]
+FCCL	Fauji Cement Co Ltd.
+FECTC	Fecto Cement Ltd.
+FLYNG	Flying Cement Company Ltd.
+FLYNGR1	Flying Cement Company Ltd.(R1)
+GWLC	Gharibwal Cement Ltd.
+JVDC	Javedan Corporation Ltd.
+JVDCPS	Javedan Corporation Ltd-Non Voting.
+KOHC	Kohat Cement Co. Ltd.
+LPCL	Lafarge Pakistan Cement Limited.
+LUCK	Lucky Cement Limited.
+MLCF	Maple Leaf Cement Factory Ltd.
+PIOC	Pioneer Cement Ltd.
+POWER	Power cement Limited
+POWERPS	Power cement Ltd. Preference Shares
+SMCPL	Safe Mix Concrete Ltd.
+THCCL	Thatta Cement Company Ltd.
+ZELP	Zeal Pak Cement Factory Ltd. [ DEFAULTER SEGMENT ]
+DOMF	Dominion Stock Fund [ DEFAULTER SEGMENT ]
+HGFA	HBL Growth Fund
+HIFA	HBL Investment Fund
+INMF	Investec Mutual Fund [ DEFAULTER SEGMENT ]
+PUDF	Prudential Stock Fund. [ DEFAULTER SEGMENT ]
+TSMF	Tri - Star Mutual Fund Ltd.
+ABL	Allied Bank Ltd.
+AKBL	Askari Bank Limited.
+BAFL	Bank Alfalah Ltd.
+BAHL	Bank Al-Habib Ltd.
+BIPL	Bankislami Pakistan Ltd.
+BOK	The Bank of Khyber.(XB)
+BOP	Bank Of Punjab.(XB)
+FABL	Faysal Bank Limited.
+HBL	Habib Bank Limited.
+HMB	Habib Metropolitan Bank Limited.
+JSBL	JS Bank Limited.
+MCB	MCB Bank Limited.
+MEBL	Meezan Bank Limited.
+NBP	National Bank Of Pakistan.(XD)
+SBL	Samba Bank Limited.
+SCBPL	Standard Chartered Bank Pak Ltd.
+SILK	Silk Bank Limited.
+SMBL	Summit Bank Limited.
+SNBL	Soneri Bank Ltd.
+UBL	United Bank Ltd.
+ADOS	Ados Pakistan Limited.
+AGHA	Agha Steel Industries Ltd.
+ASL	Aisha Steel Mills Limited.
+ASLCPS	Aisha Steel Mills Convertible Cumul
+ASLPS	Aisha Steel Mills Convertibl Pre-Sh
+ASTL	Amreli Steels Limited.
+BCL	Bolan Casting Ltd.
+BECO	Beco Steel Limited
+CSAP	Crescent Steel & Allied Product.
+DADX	Dadex Eternit Ltd.
+DSL	Dost Steels Ltd. [ DEFAULTER SEGMENT ]
+HSPI	Huffaz Seamless Pipe Industries. [ DEFAULTER SEGMENT ]
+INIL	International Industries Ltd.
+ISL	International Steels Limited.
+ITTEFAQ	Ittefaq Iron Industries Limited.
+KSBP	KSB Pumps Co Ltd.
+MSCL	Metropolitan Steel Corporation
+MUGHAL	Mughal Iron & Steels Ind Ltd.
+PECO	Pakistan Engineering Co Ltd. [ DEFAULTER SEGMENT ]
+QUSW	Quality Steel Works Ltd. [ DEFAULTER SEGMENT ]
+ACIETF	Alfalah Consumer Index ETF.
+JSMFETF	JS Momentum Factor ETF
+MZNPETF	Meezan Pakistan ETF
+NBPGETF	NBP Pakistan Growth ETF
+NITGETF	NIT Pakistan Gateway ETF.
+UBLPETF	UBL Pakistan Enterprise ETF.
+AHCL	Arif Habib Corporation Ltd.
+EFERT	Engro Fertilizers Limited.
+ENGRO	Engro Corporation Limited.
+FATIMA	Fatima Fertilizer Co Ltd.
+FFBL	Fauji Fertilizer Bin Qasim Ltd.
+FFBLR	Fauji Fertilizer Bin Qasim Ltd.(R)
+FFC	Fauji Fertilizer Co. Ltd.
+ASC	Al-Shaheer Corporation.
+ASCR	Al-Shaheer Corporation(R)
+BNL	Bunnys Limited
+CLOV	Clover Pakistan Limited.
+FCEPL	Frieslandcampina Engro Pakistan Ltd.
+FFL	Fauji Foods Limited.
+GIL	Good Luck Industries Limited.
+GLPL	Gillette Pakistan Limited
+ISIL	Ismail Industries Ltd.
+MFFL	Mitchells Fruit Farms Ltd.
+MFL	Matco Foods Limited.
+MUREB	Murree Brewery Company Ltd.
+NATF	National Foods Ltd.
+NESTLE	Nestle Pakistan Ltd.
+NMFL	Nirala MSR Foods Limited [ DEFAULTER SEGMENT ]
+PREMA	At-Tahur Ltd.
+QUICE	Quice Food Industries Ltd.
+RMPL	Rafhan Maize Products Ltd. (XD)
+SCL	Shield Corporation Ltd.
+SHEZ	Shezan International Ltd.
+TOMCL	The Organic Meat Company Ltd.
+TREET	Treet Corporation Ltd.
+UNITY	Unity Foods Limited.
+UPFL	Unilever Pakistan Foods Ltd. (XD)
+ZIL	ZIL Limited.
+ABL-APR	Allied Bank Ltd.
+ABL-APRB	Allied Bank Ltd.
+ABL-JUN	Allied Bank Ltd.
+ABL-MAR	Allied Bank Ltd.
+ABL-MARB	Allied Bank Ltd.
+ABL-MAY	Allied Bank Ltd.
+ABLCFO	ABL Cash Fund
+ABLICFO	ABL Isalmic Cash Fund
+AGHA-APR	Agha Steel Industries Ltd.
+AGHA-JUN	Agha Steel Industries Ltd.
+AGHA-MAR	Agha Steel Industries Ltd.
+AGHA-MAY	Agha Steel Industries Ltd.
+AGHA-OCT	Agha Steel Industries Ltd.
+AGHA-OCTB	Agha Steel Industries Ltd.
+AGL-APR	Agritech Limited
+AGL-MAR	Agritech Limited
+AGP-APR	AGP Limited.
+AGP-APRB	AGP Limited.
+AGP-JUN	AGP Limited.
+AGP-JUNB	AGP Limited.
+AGP-MAR	AGP Limited.
+AGP-MAY	AGP Limited.
+AGP-MAYB	AGP Limited.
+AICF	Al-Ameen Islamic Cash Fund
+AICL-OCT	Adamjee Insurance Co. Ltd.
+AICL-OCTB	Adamjee Insurance Co. Ltd.
+AKBL-OCT	Askari Bank Limited.
+ALHIMMF	Al Hamra Islamic Mony Market Fund
+ANL-APR	Azgard Nine Limited.
+ANL-JUN	Azgard Nine Limited.
+ANL-MAR	Azgard Nine Limited.
+ANL-MAY	Azgard Nine Limited.
+ANL-OCT	Azgard Nine Limited.
+ASC-APR	Al-Shaheer Corporation.
+ASC-JUN	Al-Shaheer Corporation.
+ASC-MAR	Al-Shaheer Corporation.
+ASC-MAY	Al-Shaheer Corporation.
+ASC-OCT	Al-Shaheer Corporation.
+ASCFO	Askari Sovereign Cash Fund
+ASL-APR	Aisha Steel Mills Limited.
+ASL-JUN	Aisha Steel Mills Limited.
+ASL-MAR	Aisha Steel Mills Limited.
+ASL-MAY	Aisha Steel Mills Limited.
+ASL-OCT	Aisha Steel Mills Limited.
+ASL-OCTB	Aisha Steel Mills Limited.
+ASTL-APR	Amreli Steels Limited.
+ASTL-JUN	Amreli Steels Limited.
+ASTL-MAR	Amreli Steels Limited.
+ASTL-MAY	Amreli Steels Limited.
+ASTL-OCT	Amreli Steels Limited.
+ATMMFO	Atlas Money Market Fund
+ATRL-APR	Attock Refinery Limited.
+ATRL-JUN	Attock Refinery Limited.
+ATRL-MAR	Attock Refinery Limited.
+ATRL-MAY	Attock Refinery Limited.
+ATRL-OCT	Attock Refinery Limited.
+AVN-APR	Avanceon Limited.
+AVN-APRB	Avanceon Limited.
+AVN-JUN	Avanceon Limited.
+AVN-JUNB	Avanceon Limited.
+AVN-MAR	Avanceon Limited.
+AVN-MAY	Avanceon Limited.
+AVN-MAYB	Avanceon Limited.
+AVN-OCT	Avanceon Limited.
+BAFL-APR	Bank Alfalah Ltd.
+BAFL-APRB	Bank Alfalah Ltd.
+BAFL-JUN	Bank Alfalah Ltd.
+BAFL-MAR	Bank Alfalah Ltd.
+BAFL-MARB	Bank Alfalah Ltd.
+BAFL-MAY	Bank Alfalah Ltd.
+BAFL-OCT	Bank Alfalah Ltd.
+BAFL-OCTB	Bank Alfalah Ltd.
+BAHL-APR	Bank Al-Habib Ltd.
+BAHL-APRB	Bank Al-Habib Ltd.
+BAHL-JUN	Bank Al-Habib Ltd.
+BAHL-MAR	Bank Al-Habib Ltd.
+BAHL-MARB	Bank Al-Habib Ltd.
+BAHL-MAY	Bank Al-Habib Ltd.
+BAHL-OCT	Bank Al-Habib Ltd.
+BGL-APR	Balochistan Glass Ltd.
+BGL-MAR	Balochistan Glass Ltd.
+BGL-OCT	Balochistan Glass Ltd.
+BIPL-APR	Bankislami Pakistan Ltd.
+BIPL-JUN	Bankislami Pakistan Ltd.
+BIPL-MAR	Bankislami Pakistan Ltd.
+BIPL-MAY	Bankislami Pakistan Ltd.
+BIPL-OCT	Bankislami Pakistan Ltd.
+BMAECFO	BMA Empress Cash Fund.
+BOP-APR	Bank Of Punjab.
+BOP-APRB	Bank Of Punjab.
+BOP-JUN	Bank Of Punjab.
+BOP-MAR	Bank Of Punjab.
+BOP-MARB	Bank Of Punjab.
+BOP-MAY	Bank Of Punjab.
+BOP-OCT	Bank Of Punjab.
+BYCO-OCT	BYCO Petroleum Pak Ltd.
+CHCC-APR	Cherat Cement Co. Ltd.
+CHCC-JUN	Cherat Cement Co. Ltd.
+CHCC-MAR	Cherat Cement Co. Ltd.
+CHCC-MAY	Cherat Cement Co. Ltd.
+CHCC-OCT	Cherat Cement Co. Ltd.
+CHCC-OCTB	Cherat Cement Co. Ltd.
+CNERGY-APR	Cnergyico PK Limited.
+CNERGY-JUN	Cnergyico PK Limited.
+CNERGY-MAR	Cnergyico PK Limited.
+CNERGY-MAY	Cnergyico PK Limited.
+DCL-APR	Dewan Cement Limited.
+DCL-JUN	Dewan Cement Limited.
+DCL-MAR	Dewan Cement Limited.
+DCL-MAY	Dewan Cement Limited.
+DCL-OCT	Dewan Cement Limited.
+DCR-APR	Dolmen City REIT.
+DCR-JUN	Dolmen City REIT.
+DCR-MAR	Dolmen City REIT.
+DCR-MARB	Dolmen City REIT.
+DCR-MAY	Dolmen City REIT.
+DCR-OCT	Dolmen City REIT.
+DCR-OCTB	Dolmen City REIT.
+DGKC-APR	D. G. Khan Cement Co. Ltd.
+DGKC-JUN	D. G. Khan Cement Co. Ltd.
+DGKC-MAR	D. G. Khan Cement Co. Ltd.
+DGKC-MAY	D. G. Khan Cement Co. Ltd.
+DGKC-OCT	D. G. Khan Cement Co. Ltd.
+DGKC-OCTB	D. G. Khan Cement Co. Ltd.
+DOL-OCT	Descon Oxychem Ltd.
+DOL-OCTB	Descon Oxychem Ltd.
+EFERT-APR	Engro Fertilizers Limited.
+EFERT-APRB	Engro Fertilizers Limited.
+EFERT-JUN	Engro Fertilizers Limited.
+EFERT-MAR	Engro Fertilizers Limited.
+EFERT-MARB	Engro Fertilizers Limited.
+EFERT-MAY	Engro Fertilizers Limited.
+EFERT-OCT	Engro Fertilizers Limited.
+EFERT-OCTB	Engro Fertilizers Limited.
+EFERT-OCTC	Engro Fertilizers Limited.
+ENGRO-APR	Engro Corporation Limited.
+ENGRO-APRB	Engro Corporation Limited.
+ENGRO-JUN	Engro Corporation Limited.
+ENGRO-MAR	Engro Corporation Limited.
+ENGRO-MARB	Engro Corporation Limited.
+ENGRO-MAY	Engro Corporation Limited.
+ENGRO-OCT	Engro Corporation Limited.
+ENGRO-OCTB	Engro Corporation Limited.
+EPCL-APR	Engro Polymer & Chemicals Ltd.
+EPCL-APRB	Engro Polymer & Chemicals Ltd.
+EPCL-JUN	Engro Polymer & Chemicals Ltd.
+EPCL-MAR	Engro Polymer & Chemicals Ltd.
+EPCL-MARB	Engro Polymer & Chemicals Ltd.
+EPCL-MAY	Engro Polymer & Chemicals Ltd.
+EPCL-OCT	Engro Polymer & Chemicals Ltd.
+EPCL-OCTB	Engro Polymer & Chemicals Ltd.
+EPCL-OCTC	Engro Polymer & Chemicals Ltd.
+FABL-APR	Faysal Bank Limited.
+FABL-APRB	Faysal Bank Limited.
+FABL-JUN	Faysal Bank Limited.
+FABL-MAR	Faysal Bank Limited.
+FABL-MARB	Faysal Bank Limited.
+FABL-MAY	Faysal Bank Limited.
+FABL-OCT	Faysal Bank Limited.
+FABL-OCTB	Faysal Bank Limited.
+FATIMA-APR	Fatima Fertilizer Co Ltd.
+FATIMA-APRB	Fatima Fertilizer Co Ltd.
+FATIMA-JUN	Fatima Fertilizer Co Ltd.
+FATIMA-JUNB	Fatima Fertilizer Co Ltd.
+FATIMA-MAR	Fatima Fertilizer Co Ltd.
+FATIMA-MAY	Fatima Fertilizer Co Ltd.
+FATIMA-MAYB	Fatima Fertilizer Co Ltd.
+FCCL-APR	Fauji Cement Co Ltd.
+FCCL-JUN	Fauji Cement Co Ltd.
+FCCL-MAR	Fauji Cement Co Ltd.
+FCCL-MAY	Fauji Cement Co Ltd.
+FCCL-OCT	Fauji Cement Co Ltd.
+FCEPL-APR	Frieslandcampina Engro Pakistan Ltd.
+FCEPL-JUN	Frieslandcampina Engro Pakistan Ltd.
+FCEPL-MAR	Frieslandcampina Engro Pakistan Ltd.
+FCEPL-MAY	Frieslandcampina Engro Pakistan Ltd.
+FEROZ-APR	Ferozsons Laboratories Ltd.
+FEROZ-JUN	Ferozsons Laboratories Ltd.
+FEROZ-MAR	Ferozsons Laboratories Ltd.
+FEROZ-MAY	Ferozsons Laboratories Ltd.
+FFBL-APR	Fauji Fertilizer Bin Qasim Ltd.
+FFBL-JUN	Fauji Fertilizer Bin Qasim Ltd.
+FFBL-MAR	Fauji Fertilizer Bin Qasim Ltd.
+FFBL-MAY	Fauji Fertilizer Bin Qasim Ltd.
+FFBL-OCT	Fauji Fertilizer Bin Qasim Ltd.
+FFC-APR	Fauji Fertilizer Co. Ltd.
+FFC-APRB	Fauji Fertilizer Co. Ltd.
+FFC-JUN	Fauji Fertilizer Co. Ltd.
+FFC-MAR	Fauji Fertilizer Co. Ltd.
+FFC-MARB	Fauji Fertilizer Co. Ltd.
+FFC-MAY	Fauji Fertilizer Co. Ltd.
+FFC-OCT	Fauji Fertilizer Co. Ltd.
+FFC-OCTB	Fauji Fertilizer Co. Ltd.
+FFL-APR	Fauji Foods Limited.
+FFL-JUN	Fauji Foods Limited.
+FFL-MAR	Fauji Foods Limited.
+FFL-MAY	Fauji Foods Limited.
+FFL-OCT	Fauji Foods Limited.
+FFL-OCTB	Fauji Foods Limited.
+FLYNG-APR	Flying Cement Company Ltd.
+FLYNG-JUN	Flying Cement Company Ltd.
+FLYNG-MAR	Flying Cement Company Ltd.
+FLYNG-MARB	Flying Cement Company Ltd.
+FLYNG-MAY	Flying Cement Company Ltd.
+FMMFO	Faysal Money Market Fund
+GATM-APR	Gul Ahmed Textile Mills Ltd.
+GATM-JUN	Gul Ahmed Textile Mills Ltd.
+GATM-MAR	Gul Ahmed Textile Mills Ltd.
+GATM-MAY	Gul Ahmed Textile Mills Ltd.
+GATM-OCT	Gul Ahmed Textile Mills Ltd.
+GGGL-APR	Ghani Global Glass Limited.
+GGGL-JUN	Ghani Global Glass Limited.
+GGGL-MAR	Ghani Global Glass Limited.
+GGGL-MAY	Ghani Global Glass Limited.
+GGGL-OCT	Ghani Global Glass Limited.
+GGL-APR	Ghani Global Holding Limited.
+GGL-JUN	Ghani Global Holding Limited.
+GGL-MAR	Ghani Global Holding Limited.
+GGL-MAY	Ghani Global Holding Limited.
+GGL-OCT	Ghani Global Holdings Limited.
+GGL-OCTB	Ghani Global Holdings Limited.
+GHGL-APR	Ghani Glass Ltd.
+GHGL-APRB	Ghani Glass Ltd.
+GHGL-JUN	Ghani Glass Ltd.
+GHGL-MAR	Ghani Glass Ltd.
+GHGL-MARB	Ghani Glass Ltd.
+GHGL-MAY	Ghani Glass Ltd.
+GHGL-MAYB	Ghani Glass Ltd.
+GHNI-APR	Ghandhara Industries Ltd.
+GHNI-JUN	Ghandhara Industries Ltd.
+GHNI-MAR	Ghandhara Industries Ltd.
+GHNI-MAY	Ghandhara Industries Ltd.
+GHNI-OCT	Ghandhara Industries Ltd.
+GHNL-APR	Ghandhara Nissan Ltd.
+GHNL-MAR	Ghandhara Nissan Ltd.
+GHNL-OCT	Ghandhara Nissan Ltd.
+HBL-APR	Habib Bank Limited.
+HBL-APRB	Habib Bank Limited.
+HBL-JUN	Habib Bank Limited.
+HBL-MAR	Habib Bank Limited.
+HBL-MARB	Habib Bank Limited.
+HBL-MAY	Habib Bank Limited.
+HBL-OCT	Habib Bank Limited
+HBL-OCTB	Habib Bank Limited
+HBL-OCTC	Habib Bank Limited
+HBLMMF	HBL Money Market Fund.
+HMB-APR	Habib Metropolitan Bank Limited.
+HMB-APRB	Habib Metropolitan Bank Limited.
+HMB-JUN	Habib Metropolitan Bank Limited.
+HMB-MAR	Habib Metropolitan Bank Limited.
+HMB-MARB	Habib Metropolitan Bank Limited.
+HMB-MAY	Habib Metropolitan Bank Limited.
+HMB-OCT	Habib Metropolitan Bank Limited.
+HMB-OCTB	Habib Metropolitan Bank Limited.
+HUBC-APR	Hub Power Company Limited.
+HUBC-JUN	Hub Power Company Limited.
+HUBC-MAR	Hub Power Company Limited.
+HUBC-MARB	Hub Power Company Limited.
+HUBC-MAY	Hub Power Company Limited.
+HUBC-OCT	Hub Power Company Limited.
+HUBC-OCTB	Hub Power Company Limited.
+HUMNL-APR	Hum Network Limited.
+HUMNL-JUN	Hum Network Limited.
+HUMNL-MAR	Hum Network Limited.
+HUMNL-MARB	Hum Network Limited.
+HUMNL-MAY	Hum Network Limited.
+HUMNL-OCT	Hum Network Limited.
+ILP-OCT	Interloop Limited.
+ILP-OCTB	Interloop Limited.
+IMAGE-APR	Image Pakistan Limited.
+IMAGE-MAR	Image Pakistan Limited.
+INIL-APR	International Industries Ltd.
+INIL-APRB	International Industries Ltd.
+INIL-JUN	International Industries Ltd.
+INIL-MAR	International Industries Ltd.
+INIL-MARB	International Industries Ltd.
+INIL-MAY	International Industries Ltd.
+INIL-OCT	International Industries Ltd.
+INIL-OCTB	International Industries Ltd.
+ISL-APR	International Steels Limited.
+ISL-APRB	International Steels Limited.
+ISL-JUN	International Steels Limited.
+ISL-MAR	International Steels Limited.
+ISL-MARB	International Steels Limited.
+ISL-MAY	International Steels Limited.
+ISL-OCT	International Steels Limited.
+ISL-OCTB	International Steels Limited.
+JSBL-APR	JS Bank Limited.
+JSBL-MAR	JS Bank Limited.
+JSBL-OCT	JS Bank Limited.
+JSCFO	JS Cash Fund
+JVDC-APR	Javedan Corporation Ltd.
+JVDC-MAR	Javedan Corporation Ltd.
+KAPCO-APR	Kot Addu Power Company.
+KAPCO-JUN	Kot Addu Power Company.
+KAPCO-MAR	Kot Addu Power Company.
+KAPCO-MARB	Kot Addu Power Company.
+KAPCO-MAY	Kot Addu Power Company.
+KAPCO-OCT	Kot Addu Power Company.
+KAPCO-OCTB	Kot Addu Power Company.
+KASBCFO	KASB Cash Fund
+KEL-APR	K-Electric Limited.
+KEL-JUN	K-Electric Limited.
+KEL-MAR	K-Electric Limited.
+KEL-MAY	K-Electric Limited.
+KEL-OCT	K-Electric Limited.
+KOHC-APR	Kohat Cement Co. Ltd.
+KOHC-JUN	Kohat Cement Co. Ltd.
+KOHC-MAR	Kohat Cement Co. Ltd.
+KOHC-MAY	Kohat Cement Co. Ltd.
+KOSM-APR	Kohinoor Spinning Mills Ltd.
+KOSM-JUN	Kohinoor Spinning Mills Ltd.
+KOSM-MAR	Kohinoor Spinning Mills Ltd.
+KOSM-MAY	Kohinoor Spinning Mills Ltd.
+LOADS-APR	Loads Limited.
+LOADS-JUN	Loads Limited.
+LOADS-MAR	Loads Limited.
+LOADS-MAY	Loads Limited.
+LOTCHEM-APR	Lotte Chemical Pakistan Ltd.
+LOTCHEM-JUN	Lotte Chemical Pakistan Ltd.
+LOTCHEM-MAR	Lotte Chemical Pakistan Ltd.
+LOTCHEM-MAY	Lotte Chemical Pakistan Ltd.
+LOTCHEM-OCT	Lotte Chemical Pakistan Ltd.
+LOTCHEM-OCTB	Lotte Chemical Pakistan Ltd.
+LPL-OCT	LALPIR Power Limited.
+LPL-OCTB	LALPIR Power Limited.
+LUCK-APR	Lucky Cement Limited.
+LUCK-JUN	Lucky Cement Limited.
+LUCK-MAR	Lucky Cement Limited.
+LUCK-MAY	Lucky Cement Limited.
+LUCK-OCT	Lucky Cement Limited.
+MCB-APR	MCB Bank Limited.
+MCB-APRB	MCB Bank Limited.
+MCB-JUN	MCB Bank Limited.
+MCB-MAR	MCB Bank Limited.
+MCB-MARB	MCB Bank Limited.
+MCB-MAY	MCB Bank Limited.
+MCB-OCT	MCB Bank Limited.
+MCB-OCTB	MCB Bank Limited.
+MCBCMO	MCB Cash Managment Optimizer Fund
+MCFO	Meezan Cash Fund
+MDTL-APR	Media Times Limited.
+MDTL-MAR	Media Times Limited.
+MDTL-OCT	Media Times Limited.
+MEBL-APR	Meezan Bank Limited.
+MEBL-APRB	Meezan Bank Limited.
+MEBL-JUN	Meezan Bank Limited.
+MEBL-MAR	Meezan Bank Limited.
+MEBL-MARB	Meezan Bank Limited.
+MEBL-MAY	Meezan Bank Limited.
+MEBL-OCT	Meezan Bank Limited.
+MEBL-OCTB	Meezan Bank Limited.
+MEBL-OCTC	Meezan Bank Limited.
+MLCF-APR	Maple Leaf Cement Factory Ltd.
+MLCF-JUN	Maple Leaf Cement Factory Ltd.
+MLCF-MAR	Maple Leaf Cement Factory Ltd.
+MLCF-MAY	Maple Leaf Cement Factory Ltd.
+MLCF-OCT	Maple Leaf Cement Factory Ltd.
+MTL-APR	Millat Tractors Limited.
+MTL-APRB	Millat Tractors Limited.
+MTL-JUN	Millat Tractors Limited.
+MTL-MAR	Millat Tractors Limited.
+MTL-MARB	Millat Tractors Limited.
+MTL-MAY	Millat Tractors Limited.
+MUGHAL-APR	Mughal Iron & Steels Ind Ltd.
+MUGHAL-APRB	Mughal Iron & Steels Ind Ltd.
+MUGHAL-JUN	Mughal Iron & Steels Ind Ltd.
+MUGHAL-MAR	Mughal Iron & Steels Ind Ltd.
+MUGHAL-MARB	Mughal Iron & Steels Ind Ltd.
+MUGHAL-MAY	Mughal Iron & Steels Ind Ltd.
+MUGHAL-OCT	Mughal Iron & Steels Ind Ltd.
+MUGHAL-OCTB	Mughal Iron & Steels Ind Ltd.
+MZNPETF-APR	Meezan Pakistan ETF
+MZNPETF-JUN	Meezan Pakistan ETF
+MZNPETF-MAR	Meezan Pakistan ETF
+MZNPETF-MAY	Meezan Pakistan ETF
+NAFAGSLFO	NAFA Government Securities Liquid Fund
+NAFAMMFO	NAFA Money Market
+NBP-APR	National Bank Of Pakistan.
+NBP-APRB	National Bank Of Pakistan.
+NBP-JUN	National Bank Of Pakistan.
+NBP-MAR	National Bank Of Pakistan.
+NBP-MARB	National Bank Of Pakistan.
+NBP-MAY	National Bank Of Pakistan.
+NBP-MAYB	National Bank Of Pakistan.
+NBP-OCT	National Bank Of Pakistan.
+NBPGETF-APR	NBP Pakistan Growth ETF
+NBPGETF-JUN	NBP Pakistan Growth ETF
+NBPGETF-MAR	NBP Pakistan Growth ETF
+NBPGETF-MAY	NBP Pakistan Growth ETF
+NBPIMMF	NBP Islamic Money Market Fund
+NCL-APR	Nishat (Chunia) Ltd.
+NCL-APRB	Nishat (Chunia) Ltd.
+NCL-JUN	Nishat (Chunia) Ltd.
+NCL-MAR	Nishat (Chunia) Ltd.
+NCL-MARB	Nishat (Chunia) Ltd.
+NCL-MAY	Nishat (Chunia) Ltd.
+NCL-OCT	Nishat (Chunia) Ltd.
+NCL-OCTB	Nishat (Chunia) Ltd.
+NETSOL-APR	NetSol Technologies Ltd.
+NETSOL-JUN	NetSol Technologies Ltd.
+NETSOL-MAR	NetSol Technologies Ltd.
+NETSOL-MAY	NetSol Technologies Ltd.
+NETSOL-OCT	NetSol Technologies Ltd.
+NITGETF-APR	NIT Pakistan Gateway ETF.
+NITGETF-JUN	NIT Pakistan Gateway ETF.
+NITGETF-MAR	NIT Pakistan Gateway ETF.
+NITGETF-MAY	NIT Pakistan Gateway ETF.
+NML-APR	Nishat Mills Ltd.
+NML-JUN	Nishat Mills Ltd.
+NML-MAR	Nishat Mills Ltd.
+NML-MAY	Nishat Mills Ltd.
+NML-OCT	Nishat Mills Ltd.
+NML-OCTB	Nishat Mills Ltd.
+NRL-APR	National Refinary Ltd.
+NRL-JUN	National Refinary Ltd.
+NRL-MAR	National Refinary Ltd.
+NRL-MAY	National Refinary Ltd.
+NRL-OCT	National Refinary Ltd.
+NRL-OCTB	National Refinary Ltd.
+NRSL-APR	Nimir Resins Limited.
+NRSL-MAR	Nimir Resins Limited.
+OGDC-APR	Oil & Gas Development Company Ltd.
+OGDC-APRB	Oil & Gas Development Company Ltd.
+OGDC-JUN	Oil & Gas Development Company Ltd.
+OGDC-MAR	Oil & Gas Development Company Ltd.
+OGDC-MARB	Oil & Gas Development Company Ltd.
+OGDC-MAY	Oil & Gas Development Company Ltd.
+OGDC-OCT	Oil & Gas Development Company Ltd.
+OGDC-OCTB	Oil & Gas Development Company Ltd.
+PACE-APR	Pace (Pakistan) Ltd.
+PACE-JUN	Pace (Pakistan) Ltd.
+PACE-MAR	Pace (Pakistan) Ltd.
+PACE-MAY	Pace (Pakistan) Ltd.
+PACE-OCT	Pace (Pakistan) Ltd.
+PACMF	Pakistan Cash Managment Fund
+PAEL-APR	Pak Elektron Ltd.
+PAEL-APRB	Pak Elektron Ltd.
+PAEL-JUN	Pak Elektron Ltd.
+PAEL-MAR	Pak Elektron Ltd.
+PAEL-MARB	Pak Elektron Ltd.
+PAEL-MAY	Pak Elektron Ltd.
+PAEL-OCT	Pak Elektron Ltd.
+PDRFO	Primus Daily Reserve Fund.
+PIAA-APR	Pak International Airline Corp Ltd
+PIAA-JUN	Pak International Airline Corp Ltd
+PIAA-MAR	Pak International Airline Corp Ltd
+PIAA-MAY	Pak International Airline Corp Ltd
+PIB01M	PIB01M
+PIB01M	PIB01M
+PIB01W	PIB01W
+PIB01W	PIB01W
+PIB01Y	PIB01Y
+PIB01Y	PIB01Y
+PIB02M	PIB02M
+PIB02M	PIB02M
+PIB02W	PIB02W
+PIB02W	PIB02W
+PIB02Y	PIB02Y
+PIB02Y	PIB02Y
+PIB03M	PIB03M
+PIB03M	PIB03M
+PIB03Y	PIB03Y
+PIB03Y	PIB03Y
+PIB04M	PIB04M
+PIB04M	PIB04M
+PIB04Y	PIB04Y
+PIB04Y	PIB04Y
+PIB05Y	PIB05Y
+PIB05Y	PIB05Y
+PIB06M	PIB06M
+PIB06M	PIB06M
+PIB06Y	PIB06Y
+PIB06Y	PIB06Y
+PIB07Y	PIB07Y
+PIB07Y	PIB07Y
+PIB08Y	PIB08Y
+PIB08Y	PIB08Y
+PIB09M	PIB09M
+PIB09M	PIB09M
+PIB09Y	PIB09Y
+PIB09Y	PIB09Y
+PIB10Y	PIB10Y
+PIB15Y	PIB15Y
+PIB15Y	PIB15Y
+PIB20Y	PIB20Y
+PIB20Y	PIB20Y
+PIB30Y	PIB30Y
+PIB30Y	PIB30Y
+PIBTL-APR	Pakistan Intl. Bulk Terminal Ltd.
+PIBTL-JUN	Pakistan Intl. Bulk Terminal Ltd.
+PIBTL-MAR	Pakistan Intl. Bulk Terminal Ltd.
+PIBTL-MAY	Pakistan Intl. Bulk Terminal Ltd.
+PIBTL-OCT	Pakistan Intl. Bulk Terminal Ltd.
+PICICCFO	PICIC Cash Fund
+PIOC-APR	Pioneer Cement Ltd.
+PIOC-JUN	Pioneer Cement Ltd.
+PIOC-MAR	Pioneer Cement Ltd.
+PIOC-MAY	Pioneer Cement Ltd.
+PIOC-OCT	Pioneer Cement Ltd.
+POL-APR	Pakistan Oilfields Limited.
+POL-APRB	Pakistan Oilfields Limited.
+POL-JUN	Pakistan Oilfields Limited.
+POL-MAR	Pakistan Oilfields Limited.
+POL-MARB	Pakistan Oilfields Limited.
+POL-MAY	Pakistan Oilfields Limited.
+POWER-APR	Power cement Limited
+POWER-JUN	Power cement Limited
+POWER-MAR	Power cement Limited
+POWER-MAY	Power cement Limited
+POWER-OCT	Power cement Limited
+PPL-APR	Pakistan Petroleum Limited.
+PPL-APRB	Pakistan Petroleum Limited.
+PPL-JUN	Pakistan Petroleum Limited.
+PPL-MAR	Pakistan Petroleum Limited.
+PPL-MARB	Pakistan Petroleum Limited.
+PPL-MAY	Pakistan Petroleum Limited.
+PPL-OCT	Pakistan Petroleum Limited.
+PPL-OCTB	Pakistan Petroleum Limited.
+PRL-APR	Pakistan Refinery Ltd.
+PRL-JUN	Pakistan Refinery Ltd.
+PRL-MAR	Pakistan Refinery Ltd.
+PRL-MAY	Pakistan Refinery Ltd.
+PRL-OCT	Pakistan Refinery Ltd.
+PSMC-APR	Pak Suzuki Motors Co Ltd.
+PSMC-APRB	Pak Suzuki Motors Co Ltd.
+PSMC-JUN	Pak Suzuki Motors Co Ltd.
+PSMC-MAR	Pak Suzuki Motors Co Ltd.
+PSMC-MAY	Pak Suzuki Motors Co Ltd.
+PSMC-MAYB	Pak Suzuki Motors Co Ltd.
+PSMC-OCT	Pak Suzuki Motors Co Ltd.
+PSO-APR	Pakistan State Oil Co Ltd.
+PSO-JUN	Pakistan State Oil Co Ltd.
+PSO-MAR	Pakistan State Oil Co Ltd.
+PSO-MAY	Pakistan State Oil Co Ltd.
+PSO-OCT	Pakistan State Oil Co Ltd.
+PSO-OCTB	Pakistan State Oil Co Ltd.
+PTC-APR	Pakistan Telecommunication Co.
+PTC-JUN	Pakistan Telecommunication Co.
+PTC-MAR	Pakistan Telecommunication Co.
+PTC-MAY	Pakistan Telecommunication Co.
+PTC-OCT	Pakistan Telecommunication Co.
+QUICE-APR	Quice Food Industries Ltd.
+QUICE-MAR	Quice Food Industries Ltd.
+SAZEW-OCT	Sazgar Engineering Works Ltd.
+SAZEW-OCTB	Sazgar Engineering Works Ltd.
+SEARL-APR	The Searle Company Ltd.
+SEARL-JUN	The Searle Company Ltd.
+SEARL-MAR	The Searle Company Ltd.
+SEARL-MAY	The Searle Company Ltd.
+SEARL-OCT	The Searle Company Ltd.
+SEARL-OCTB	The Searle Company Ltd.
+SHEL-APR	Shell Pakistan Ltd.
+SHEL-JUN	Shell Pakistan Ltd.
+SHEL-MAR	Shell Pakistan Ltd.
+SHEL-MAY	Shell Pakistan Ltd.
+SILK-APR	Silk Bank Limited.
+SILK-JUN	Silk Bank Limited.
+SILK-MAR	Silk Bank Limited.
+SILK-MAY	Silk Bank Limited.
+SILK-OCT	Silk Bank Limited.
+SMBL-APR	Summit Bank Limited.
+SMBL-JUN	Summit Bank Limited.
+SMBL-MAR	Summit Bank Limited.
+SMBL-MAY	Summit Bank Limited.
+SNBL-APR	Soneri Bank Ltd.
+SNBL-APRB	Soneri Bank Ltd.
+SNBL-MAR	Soneri Bank Ltd.
+SNBL-MARB	Soneri Bank Ltd.
+SNBL-OCT	Soneri Bank Ltd.
+SNGP-APR	Sui Northern Gas Pipe Line Ltd.
+SNGP-JUN	Sui Northern Gas Pipe Line Ltd.
+SNGP-MAR	Sui Northern Gas Pipe Line Ltd.
+SNGP-MAY	Sui Northern Gas Pipe Line Ltd.
+SNGP-OCT	Sui Northern Gas Pipe Line Ltd.
+SNGP-OCTB	Sui Northern Gas Pipe Line Ltd.
+SSGC-APR	Sui Southern Gas Co Ltd.
+SSGC-JUN	Sui Southern Gas Co Ltd.
+SSGC-MAR	Sui Southern Gas Co Ltd.
+SSGC-MAY	Sui Southern Gas Co Ltd.
+SSGC-OCT	Sui Southern Gas Co Ltd.
+STCL-OCT	Shabbir Tiles and Ceramics Limited.
+STCL-OCTB	Shabbir Tiles and Ceramics Limited.
+STPL-APR	Siddiqsons Tin Plate Ltd.
+STPL-MAR	Siddiqsons Tin Plate Ltd.
+STPL-OCT	Siddiqsons Tin Plate Ltd.
+SYS-APR	Systems Limited.
+SYS-APRB	Systems Limited.
+SYS-JUN	Systems Limited.
+SYS-MAR	Systems Limited.
+SYS-MAY	Systems Limited.
+SYS-MAYB	Systems Limited.
+TBIL00010007	TBILL00010007
+TBIL00010007	TBILL00010007
+TBIL00080015	TBILL00080015
+TBIL00080015	TBILL00080015
+TBIL00160030	TBILL00160030
+TBIL00160030	TBILL00160030
+TBIL00310060	TBILL00310060
+TBIL00310060	TBILL00310060
+TBIL00610090	TBILL00610090
+TBIL00610090	TBILL00610090
+TBIL00910120	TBILL00910120
+TBIL00910120	TBILL00910120
+TBIL01210180	TBILL01210180
+TBIL01210180	TBILL01210180
+TBIL01810270	TBILL01810270
+TBIL01810270	TBILL01810270
+TBIL02710365	TBILL02710365
+TBIL02710365	TBILL02710365
+TELE-APR	Telecard Ltd.
+TELE-JUN	Telecard Ltd.
+TELE-MAR	Telecard Ltd.
+TELE-MAY	Telecard Ltd.
+TELE-OCT	Telecard Ltd.
+TELE-OCTB	Telecard Ltd.
+TGL-APR	Tariq Glass.
+TGL-JUN	Tariq Glass.
+TGL-MAR	Tariq Glass.
+TGL-MAY	Tariq Glass.
+TGL-OCT	Tariq Glass.
+TGL-OCTB	Tariq Glass.
+THALL-APR	Thal Limited.
+THALL-APRB	Thal Limited.
+THALL-JUN	Thal Limited.
+THALL-MAR	Thal Limited.
+THALL-MARB	Thal Limited.
+THALL-MAY	Thal Limited.
+TOMCL-APR	The Organic Meat Company Ltd.
+TOMCL-MAR	The Organic Meat Company Ltd.
+TOMCL-OCT	The Organic Meat Company Ltd.
+TOMCL-OCTB	The Organic Meat Company Ltd.
+TPL-APR	TPL CORP Limited.
+TPL-JUN	TPL CORP Limited.
+TPL-MAR	TPL CORP Limited.
+TPL-MAY	TPL CORP Limited.
+TPL-OCT	TPL CORP Limited.
+TPLP-APR	TPL Properties Limited.
+TPLP-APRB	TPL Properties Limited.
+TPLP-JUN	TPL Properties Limited.
+TPLP-MAR	TPL Properties Limited.
+TPLP-MARB	TPL Properties Limited.
+TPLP-MAY	TPL Properties Limited.
+TPLP-MAYB	TPL Properties Limited.
+TREET-APR	Treet Corporation Ltd.
+TREET-JUN	Treet Corporation Ltd.
+TREET-MAR	Treet Corporation Ltd.
+TREET-MAY	Treet Corporation Ltd.
+TREET-OCT	Treet Corporation Ltd.
+TRG-APR	TRG Pakistan Ltd.
+TRG-JUN	TRG Pakistan Ltd.
+TRG-MAR	TRG Pakistan Ltd.
+TRG-MAY	TRG Pakistan Ltd.
+TRG-OCT	TRG Pakistan Ltd.
+UBL-APR	United Bank Ltd.
+UBL-APRB	United Bank Ltd.
+UBL-JUN	United Bank Ltd.
+UBL-MAR	United Bank Ltd.
+UBL-MARB	United Bank Ltd.
+UBL-MAY	United Bank Ltd.
+UBL-OCT	United Bank Ltd.
+UBL-OCTB	United Bank Ltd.
+UBLGSFO	UBL Government Securities Fund
+UBLISFO	UBL Islamic Sovereign Fund
+UBLLPFO	UBL Liquidity Plus Fund
+UBLMMF	UBL Money Market Fund
+UBLPETF-APR	UBL Pakistan Enterprise ETF.
+UBLPETF-JUN	UBL Pakistan Enterprise ETF.
+UBLPETF-MAR	UBL Pakistan Enterprise ETF.
+UBLPETF-MAY	UBL Pakistan Enterprise ETF.
+UBLPETF-OCT	UBL Pakistan Enterprise ETF
+UNITY-APR	Unity Foods Limited.
+UNITY-JUN	Unity Foods Limited.
+UNITY-MAR	Unity Foods Limited.
+UNITY-MAY	Unity Foods Limited.
+UNITY-OCT	Unity Foods Limited.
+WAVES-APR	WAVES Singer Pakistan Ltd.
+WAVES-JUN	WAVES Singer Pakistan Ltd.
+WAVES-MAR	WAVES Singer Pakistan Ltd.
+WAVES-MAY	WAVES Singer Pakistan Ltd.
+WAVES-OCT	WAVES Singer Pakistan Ltd.
+WTL-APR	Worldcall Telecom Ltd.
+WTL-JUN	Worldcall Telecom Ltd.
+WTL-MAR	Worldcall Telecom Ltd.
+WTL-MAY	Worldcall Telecom Ltd.
+WTL-OCT	Worldcall Telecom Ltd.
+YOUW-APR	Yousuf Weaving Mills Limited.
+YOUW-JUN	Yousuf Weaving Mills Limited.
+YOUW-MAR	Yousuf Weaving Mills Limited.
+YOUW-MAY	Yousuf Weaving Mills Limited.
+BGL	Balochistan Glass Ltd.
+FRCL	Frontier Ceramics Ltd.
+GGGL	Ghani Global Glass Limited.
+GHGL	Ghani Glass Ltd.
+GHGLR2	Ghani Glass Ltd.(R2)
+GVGL	Ghani Value Glass Limited.
+GVGLR2	Ghani Value Glass Limited.(R2)
+KCL	Karam Ceramics Mills Ltd.
+REGAL	Regal Ceramics Ltd. [ DEFAULTER SEGMENT ]
+STCL	Shabbir Tiles and Ceramics Limited.
+TGL	Tariq Glass.
+AGIC	Askari Gen Insurance Co.
+AICL	Adamjee Insurance Co. Ltd.
+ALAC	Askari Life Assurance Company Ltd.
+ALIFE	Adamjee Life Assurance Co. Ltd.
+ASIC	Asia Insurance Company Ltd.
+ATIL	Atlas Insurance Limited. (XD)(XB)
+BIIC	Business & Industrial Insuranc [ DEFAULTER SEGMENT ]
+CENI	Century Insurance Co.Ltd.
+CSIL	Cresent Star Insurance Ltd.
+EFUG	E. F. U. Gen Insurance Ltd. (XD)
+EFUL	EFU Life Assurance Ltd.
+EWIC	East West Ins. Co. Ltd.
+HICL	Habib Insurance Co Ltd. (XD)
+IGIHL	IGI Holdings Limited.
+IGIL	IGI Life Insurance Ltd.
+IGILR	IGI Life Insurance Ltd.(R)
+JGICL	Jubilee General Insurance Co.Ltd.
+JLICL	Jubliee Life Insurance Co Ltd.
+PAKRI	Pakistan Reinsurance Comp.
+PIL	PICIC Insurance Ltd. [ DEFAULTER SEGMENT ]
+PINL	Premier Insurance Limited.
+PKGI	Pakistan General Insurance Co. [ DEFAULTER SEGMENT ]
+PRIC	Progressive Insurance Co Ltd. [ DEFAULTER SEGMENT ]
+RICL	Reliance Insurance.
+SHNI	Shaheen Insurance Co Ltd.
+SICL	Standard Insurance Co.Ltd [ DEFAULTER SEGMENT ]
+SSIC	Silver Star Insurance Co. [ DEFAULTER SEGMENT ]
+TPLI	TPL Insurance Ltd.
+UNIC	United Insurance Company.
+UVIC	Universal Insurance Company Ltd.
+786	786 Investments Limited
+AHL	Arif Habib Limited.
+AMBL	Apna Microfinance Bank Limited.
+AMSL	Al-Mal Securities & Services L [ DEFAULTER SEGMENT ]
+BIPLS	BIPL Securities Ltd. (XD)
+CASH	Calcorp Limited
+CYAN	Cyan Limited.
+DAWH	Dawood Hercules Corporation Ltd.
+DEL	Dawood Equities Ltd.
+DLL	Dawood Lawrencepur Ltd.
+EFGH	EFG Hermes Pakistan Ltd.
+ESBL	Escorts Investment Bank Ltd.
+ESBLR	Escorts Investment Bank Ltd.(R)
+FCEL	First Capital Equities Ltd. [ DEFAULTER SEGMENT ]
+FCIBL	First Credit & Investment Bank Ltd.
+FCSC	First Capital Sec.Corp. Ltd.
+FDIBL	First Dawood Investment Bank Ltd.
+FNEL	First National Equities Limited.
+ICIBL	Invest Capital Investment Bank Ltd.
+IML	Imperial Limited
+JSCL	Jahangir Siddiqui & Company Ltd.
+JSCLPSA	Jahangir Siddiqui & Co. (Non-V Preferen)
+JSGCL	JS Global Capital Limited.
+JSIL	JS Investments Limited.
+MCBAH	MCB-Arif Habib Savings & Invest Ltd.
+NEXT	Next Capital Limited.
+OLPL	OLP Financial Services Pakistan Limited
+PASL	Pervez Ahmed Consultancy Services Ltd. [ DEFAULTER SEGMENT ]
+PDGH	Prudential Discount & Guarante [ DEFAULTER SEGMENT ]
+PRIB	Prudential Investment Bank [ DEFAULTER SEGMENT ]
+PSX	Pakistan Stock Exchange Limited.
+SIBL	Security Investment Bank Ltd.
+TRIBL	Trust Investment Bank Ltd. [ DEFAULTER SEGMENT ]
+TSBL	Trust Securities & Brokerage.
+TSBLR	Trust Securities & Brokerage.(R)
+CJPL	Crescent Jute Products Ltd. [ DEFAULTER SEGMENT ]
+SUHJ	Sohail Jute Mills Ltd. [ DEFAULTER SEGMENT ]
+ENGL	English Leasing [ DEFAULTER SEGMENT ]
+GRYL	Grays Leasing Ltd.
+PGLC	Pak Gulf Leasing Co Ltd.
+PICL	Pakistan Industrial & Comm.Lea. [ DEFAULTER SEGMENT ]
+SLCL	Security Leasing Corp. [ DEFAULTER SEGMENT ]
+SLCPA	Security Leasing Corp (Pref) 9.1%
+SLL	SME Leasing Ltd.
+SPLC	Saudi Pak Leasing Co. [ DEFAULTER SEGMENT ]
+SPLCTFC3	Saudi Pak Leasing Co.Ltd [ DEFAULTER SEGMENT ]
+BATA	Bata Pakistan Ltd.
+FIL	Fateh Industries Ltd. [ DEFAULTER SEGMENT ]
+LEUL	Leather Up Ltd.
+PAKL	Pak Leather Crafts Ltd. [ DEFAULTER SEGMENT ]
+SGF	Service Global Footwear Limited
+SRVI	Service Industries.
+AKDHL	AKD Hospitality Limited
+AKGL	Al-Khair Gadoon Ltd.
+ARPAK	Arpak International Investment.
+DCTL	Dadabhoy Construction Technology Ltd. [ DEFAULTER SEGMENT ]
+DIIL	Dimond Industries Ltd. [ DEFAULTER SEGMENT ]
+ECOP	ECOPAK Limited.
+GAMON	Gammon Pak.
+GOC	GOC (PAK) Limited.
+HACC	Hashimi Can Co Ltd. [ DEFAULTER SEGMENT ]
+HADC	Hayderi Construction. [ DEFAULTER SEGMENT ]
+MACFL	MACPAC Films Limited.
+MWMP	Mandviwala Mauser Plastic Ind. Ltd. [ DEFAULTER SEGMENT ]
+OML	Olympia Mills Limited.
+PABC	Pakistan Aluminium Beverage Cans Ltd
+PACE	Pace (Pakistan) Ltd.
+PHDL	Pakistan Hotels Developers Ltd.
+PSEL	Pakistan Services Limited.
+SHFA	Shifa Int. Hospital Ltd.
+SPEL	Synthetic Products Ent. Ltd.
+STPL	Siddiqsons Tin Plate Ltd.
+TPLP	TPL Properties Limited.
+TRIPF	Tri-Pack Films Ltd. (XD)
+UBDL	United Brands Limited.
+UDPL	United Distributors Pakistan.
+ARM	Allied Rental Modaraba.
+AWWAL	Awwal Modaraba.
+BFMOD	B.F.Modaraba.
+BRR	B.R.R. Guardian Modaraba.
+FANM	First Al-Noor Mod.
+FCONM	First Constellation Modaraba.
+FECM	First Elite Capital Mod.
+FEM	First Equity Mod.
+FFLM	First Fidelity Leasing Mod.
+FHAM	First Habib Mod.
+FIBLM	First IBL Modaraba.
+FIM	First Investec Modarba [ DEFAULTER SEGMENT ]
+FIMM	First Imrooz Mod.
+FNBM	First National Bank Modaraba. [ DEFAULTER SEGMENT ]
+FPJM	First Punjab Mod.
+FPRM	First Paramount Mod.
+FTMM	First Treet Manufacturing Modaraba.
+FTSM	First Tri-Star Mod.
+FUDLM	First UDL Mod.
+HMM	Habib Metro Modaraba.
+KASBM	KASB Modaraba.
+MODAM	Modarba Al-Mali.
+OLPM	OLP Modaraba.
+ORM	Orient Rental Modaraba.
+PAKMI	First Pak Mod.
+PIM	Popular Islamic Madaraba
+PMI	First Prudential Mod.
+SINDM	Sindh Modaraba.
+TRSM	Trust Mod.
+UCAPM	Unicap Modaraba.
+MARI	Mari Petroleum Company Ltd.
+OGDC	Oil & Gas Development Company Ltd.
+POL	Pakistan Oilfields Limited.
+PPL	Pakistan Petroleum Limited.
+APL	Attock Petroleum Limited.
+BPL	Burshane LPG (Pakistan) Limited.
+HASCOL	Hascol Petroleum Ltd. [ DEFAULTER SEGMENT ]
+HASCOLR1	Hascol Petroleum Ltd.(R)
+HTL	Hi-Tech Lubricants Limited.
+OBOY	Oilboy Energy Limited (XR)
+PSO	Pakistan State Oil Co Ltd.
+SHEL	Shell Pakistan Ltd.
+SNGP	Sui Northern Gas Pipe Line Ltd.
+SSGC	Sui Southern Gas Co Ltd.
+ABSON	Abson Industries Limited [ DEFAULTER SEGMENT ]
+CEPB	Century Paper & Board Mills.
+CPPL	Cherat Packaging Limited.
+DBSL	Dadabhoy Sack Ltd. [ DEFAULTER SEGMENT ]
+GEMPAPL	Pak Agro Packaging Limited
+MERIT	Merit Packaging Ltd.
+PKGS	Packages Ltd.
+PPP	Pakistan Paper Products Ltd.
+RPL	Roshan Packages Limited.
+SEPL	Security Papers Ltd.
+ABOT	Abbott Laboratories Pak Ltd. (XD)
+AGP	AGP Limited. (XD)
+CPHL	Citi Pharma Limited
+FEROZ	Ferozsons Laboratories Ltd.
+GLAXO	Glaxo SmithKline Pakistan Ltd. (XD)
+GSKCH	Glaxo SmithKline Healthcare Pak Ltd.
+HINOON	Highnoon Laboratories Ltd. (XD)(XB)
+IBLHL	IBL HealthCare Limited.
+MACTER	Macter International Limited.
+OTSU	Otsuka Pakistan Ltd.
+SAPL	Sanofi-Aventis Pakistan Ltd. (XD)
+SEARL	The Searle Company Ltd.
+WYETH	Wyeth Pakistan Limited.(XD)
+AEL	Arshad Energy Limited. [ DEFAULTER SEGMENT ]
+ALTN	Altern Energy Ltd.
+EPQL	Engro Powergen Qadirpur Ltd.
+HUBC	Hub Power Company Limited.
+JPGL	Japan Power Generation Ltd. [ DEFAULTER SEGMENT ]
+KAPCO	Kot Addu Power Company.
+KEL	K-Electric Limited.
+KOHE	Kohinoor Energy Ltd.
+KOHP	Kohinoor Power Co Ltd.
+LPL	LALPIR Power Limited.
+NCPL	Nishat Chunian Power Ltd.
+NPL	Nishat Power Limited.
+PKGP	Pakgen Power Limited.
+SEL	Sitara Enengy Ltd.
+SGPL	S. G. Power Ltd.
+SPWL	Saif Power Ltd.
+TSPL	Tri -Star Power Ltd.
+DCR	Dolmen City REIT.
+ATRL	Attock Refinery Limited.
+CNERGY	Cnergyico PK Limited.
+NRL	National Refinary Ltd.
+PRL	Pakistan Refinery Ltd.
+BKTI-APR	Stock Index Future Contract
+BKTI-JUN	Stock Index Future Contract
+BKTI-MAR	Stock Index Future Contract
+BKTI-MAY	Stock Index Future Contract
+BKTI-OCT	Stock Index Future Contract
+KSE30-APR	Stock Index Future Contract
+KSE30-JUN	Stock Index Future Contract
+KSE30-MAR	Stock Index Future Contract
+KSE30-MAY	Stock Index Future Contract
+KSE30-OCT	Stock Index Future Contract
+OGTI-APR	Stock Index Future Contract
+OGTI-JUN	Stock Index Future Contract
+OGTI-MAR	Stock Index Future Contract
+OGTI-MAY	Stock Index Future Contract
+OGTI-OCT	Stock Index Future Contract
+AABS	Al-Abbas Sugar Mills Ltd.
+ADAMS	Adam Sugar Mills Limited.
+AGSML	Abdullah Shah Ghazi Sugar Mills Ltd.
+ALNRS	Al-Noor Sugar Mills Ltd.
+ANSM	Ansari Sugar Mills Ltd. [ DEFAULTER SEGMENT ]
+BAFS	Baba Faried Sugar Mills Ltd.
+CHAS	Chashma Sugar Mills Ltd.
+DWSM	Dewan Sugar Mills Ltd. [ DEFAULTER SEGMENT ]
+FRSM	Faran Sugar Mills Ltd.
+HABSM	Habib Sugar Mills Ltd.
+HRPL	Habib Rice Product Ltd.
+HSM	Husein Sugar Mills Limited.
+HSMCPS	Husein Sugar Mills Limited.(Pref-Shar)
+HWQS	Haseeb Waqas Sugar Mills Limit [ DEFAULTER SEGMENT ]
+JDWS	J. D. W. Sugar Mills Ltd.
+JSML	Jauharabad Sugar Mills Ltd.
+KPUS	Khairpur Sugar Mills Ltd.
+MIRKS	Mirpurkhas Sugar Mills Ltd.
+MRNS	Mehran Sugar Mills Ltd.
+NONS	Noon Sugar Mills Ltd.
+PMRS	Premier Sugar Mills & Distille
+SANSM	Sanghar Sugar Mills Ltd.
+SASML	Sindh Abadgars Sugar Mills Ltd.
+SHJS	Shahtaj Sugar Mills Ltd.
+SHSML	Shahmurad Sugar Mills Ltd.
+SKRS	Sakrand Sugar Mills Ltd. [ DEFAULTER SEGMENT ]
+SML	Shakarganj Limited.
+TICL	Thal Industries Corporation Ltd.
+TSML	Tandliawala Sugar Mills Ltd.
+AASM	Al-Abid Silk Mills Limited. [ DEFAULTER SEGMENT ]
+DSFL	Dewan Sulman Fibre Ltd. [ DEFAULTER SEGMENT ]
+GATI	Gatron (Industries) Ltd.
+IBFL	Ibrahim Fibre Limited.
+IMAGE	Image Pakistan Limited
+NAFL	National Fibres Ltd. [ DEFAULTER SEGMENT ]
+NSRM	The National Silk & Rayon Mills Ltd.
+PSYL	Pakistan Synthetics Ltd.
+RUPL	Rupali Polyester Ltd.
+SGABL	S.G. Allied Businesses Limited
+AIRLINK	Air Link Communication Limited
+AVN	Avanceon Limited.
+HCL	Hallmark Company Limited.
+HUMNL	Hum Network Limited.
+MDTL	Media Times Limited.
+NETSOL	NetSol Technologies Ltd.
+OCTOPUS	Octopus Digital Limited
+PAKD	Pak Datacom Limited.
+PTC	Pakistan Telecommunication Co.
+SYS	Systems Limited.(XD)(XB)
+TELE	Telecard Ltd.
+TPL	TPL CORP Limited.
+TPLT	TPL Trakker Limited.
+TRG	TRG Pakistan Ltd.
+WTL	Worldcall Telecom Ltd.
+AIRLINK	Air Link Communication Limited
+AVN	Avanceon Limited.
+HCL	Hallmark Company Limited.
+HUMNL	Hum Network Limited.
+MDTL	Media Times Limited.
+NETSOL	NetSol Technologies Ltd.
+OCTOPUS	Octopus Digital Limited
+PAKD	Pak Datacom Limited.
+PTC	Pakistan Telecommunication Co.
+SYS	Systems Limited.(XD)(XB)
+TELE	Telecard Ltd.
+TPL	TPL CORP Limited.
+TPLT	TPL Trakker Limited.
+TRG	TRG Pakistan Ltd.
+WTL	Worldcall Telecom Ltd.
+ADMM	Artistic Denim Mills Limited.
+AHTM	Ahmed Hassan Textile Mills Ltd.
+ANL	Azgard Nine Limited.
+ANLNV	Azgard Nine. (Non-Voting).
+ANLNVR	Azgard Nine. (Non-Voting).(R)
+ANLPS	Azgard Nine (Pref)
+ANLR	Azgard Nine Limited.(R)
+ANTM	AN Textile Mills Ltd.
+ARUJ	Aruj Industries Limited.
+BHAT	Bhanero Textile Mills Ltd.
+BTL	Blessed Textile Ltd.
+CHBL	Chenab Limited [ DEFAULTER SEGMENT ]
+CLCPS	Chenab Limited Preference Shares. [ DEFAULTER SEGMENT ]
+CRTM	Crescent Textile Mills Ltd.
+FASM	Faisal Spinning Mills Ltd.
+FML	Feroze1888 Mills Ltd.
+FSWL	Fateh Sports Wear Ltd. [ DEFAULTER SEGMENT ]
+FTHM	Fateh Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+FZCM	Fazal Cloth Mills Ltd.
+GATM	Gul Ahmed Textile Mills Ltd.
+GFIL	Ghazi Fabrics International Ltd.
+HAEL	Hala Enterprises Limited
+HAFL	Hafiz Limited.
+HATM	Hamid Textile Mills Limited [ DEFAULTER SEGMENT ]
+HUSI	Husein Industries
+ILP	Interloop Limited.
+INKL	International Knitwear Ltd.
+JUBS	Jubilee Spinning & Weaving Mil [ DEFAULTER SEGMENT ]
+KAKL	Kaisar Arts & Krafts Ltd. [ DEFAULTER SEGMENT ]
+KHYT	Khyber Textile Mills Ltd.
+KML	Kohinoor Mills Ltd.
+KOIL	Kohinoor Industries Ltd.
+KTML	Kohinoor Textile Mills Ltd.
+MEHT	Mehmood Textile Mills Ltd.
+MFTM	Mohammed Farooq Textile Mills [ DEFAULTER SEGMENT ]
+MSOT	Masood Textile Mills Ltd.
+MSOTPS	Masood Textile Mills Ltd.(PS).
+MUBT	Mubarak Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+NCL	Nishat (Chunia) Ltd.
+NINA	M/S Nina Industries Ltd. [ DEFAULTER SEGMENT ]
+NML	Nishat Mills Ltd.
+PASM	Paramount Spinning Mills. [ DEFAULTER SEGMENT ]
+QUET	Quetta Textile Mills Ltd.
+REDCO	Redco Textile Ltd.
+REWM	Reliance Weaving Mills Ltd.
+SAPT	Sapphire Textile Mills Ltd.
+SCHT	Schon Textile Ltd. [ DEFAULTER SEGMENT ]
+SFAT	Safa Textiles Ltd. [ DEFAULTER SEGMENT ]
+SFL	Sapphire Fibres Mills Ltd.
+STML	Shams Textile Mills Ltd.
+SURC	Suraj Cotton Mills Ltd.
+TAJT	Taj Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+TOWL	Towellers Ltd.
+USMT	Usman Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+ZAHID	Zahidjee Textile Mills Ltd.
+ZHCM	Zahur Cotton Mills [ DEFAULTER SEGMENT ]
+AAL	Agro Allianz limited.
+AATM	Ali Asghar Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+AMTEX	Amtex Limited. [ DEFAULTER SEGMENT ]
+ANNT	Annor Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+APOT	Apollo Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+ASTM	Asim Textile Mills Ltd.
+AWTX	Allawasaya Tex. & Finishing Mills.
+AZMT	Azmat Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+BCML	Babri Cotton Mills Ltd.
+BILF	Bilal Fibres Ltd. [ DEFAULTER SEGMENT ]
+CCM	Crescent Cotton Mills Limited.
+CFL	Crescent Fibres Limited.
+CTM	Colony Textile Mills Ltd.
+CWSM	Chakwal Spinning Mills Limited. [ DEFAULTER SEGMENT ]
+DATM	Data Textile Ltd. [ DEFAULTER SEGMENT ]
+DFSM	Dewan Farooque Spinning Mills Ltd.
+DINT	Din Textile Mills Ltd.
+DKTM	Dewan Khalid Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+DMTM	Dewan Mushtaq Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+DMTX	D. M. Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+DSIL	D. S. Industries Ltd.
+DSML	Dar-es-Salam Textile Mills Ltd [ DEFAULTER SEGMENT ]
+DWTM	Dewan Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+ELCM	Elahi Cotton Mills Ltd.
+ELSM	Ellcot Spinning Mills Ltd.
+FAEL	Fatima Enterprises Ltd. [ DEFAULTER SEGMENT ]
+GADT	Gadoon Textile Mills Ltd.
+GLOT	Globe Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+GSPM	Gulshan Spinning Mills Ltd. [ DEFAULTER SEGMENT ]
+GUSM	Gulistan Spinning Mills Ltd. [ DEFAULTER SEGMENT ]
+GUTM	Gulistan Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+HAJT	Hajra Textile Milla Ltd. [ DEFAULTER SEGMENT ]
+HIRAT	Hira Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+HMIM	Haji Mohammed Ismail Mills Lim [ DEFAULTER SEGMENT ]
+IDRT	Idrees Textile Mills Ltd.
+IDSM	Ideal Spinning Mills Ltd.
+IDYM	Indus Dyeing & Manufacturing.
+JATM	J. A. Textile Mills Ltd.
+JDMT	Janana De Malucha Tex Mills.
+JKSM	J. K. Spinning Mills Ltd.
+KHSM	Khurshid Spinning Mills Ltd.
+KOHTM	Kohat Textile Mills Ltd.
+KOSM	Kohinoor Spinning Mills Ltd.
+KSTM	Khalid Siraj Textile Mills Ltd [ DEFAULTER SEGMENT ]
+LMSM	Landmark Spinning Mills Limite [ DEFAULTER SEGMENT ]
+MQTM	Maqbool Textile Mills Ltd.
+NAGC	Nagina Cotton Mills Ltd.
+NATM	Nadeem Textile Mills Ltd.
+NCML	Nazir Cotton Mills Ltd. [ DEFAULTER SEGMENT ]
+PRET	Premium Textile Mills Ltd.
+RCML	Reliance Cotton Spinning Mills.
+RUBY	Ruby Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+SAIF	Saif Textile Mills Ltd.
+SANE	Salman Noman Enterprises Ltd. [ DEFAULTER SEGMENT ]
+SERT	Service Textile Mills Ltd.
+SHCM	Shadman Cotton Mills Ltd.
+SHDT	Shadab Textile Mills Ltd.
+SLYT	Sally Textile Mills Ltd. [ DEFAULTER SEGMENT ]
+SNAI	Sana Industries Ltd.
+SSML	Saritow Spinning Mills Ltd.
+SUTM	Sunrays Textile Mills Ltd.
+SZTM	Shahzad Textile Mills Ltd.
+TATM	Tata Textile Mills Ltd.
+ASHT	Ashfaq Textile Mills Ltd.
+HKKT	Hakkim Textile Mills Limited [ DEFAULTER SEGMENT ]
+ICCI	ICC Industries Ltd. [ DEFAULTER SEGMENT ]
+MOHE	Mohib Exports Ltd. [ DEFAULTER SEGMENT ]
+PRWM	Prosperity Weaving Mills Ltd.
+SDOT	Sadoon Textile Industries Ltd. [ DEFAULTER SEGMENT ]
+SMTM	Samin Textiles Ltd.
+STJT	Shahtaj Textile Ltd.
+YOUW	Yousuf Weaving Mills Limited.
+ZTL	Zephyr Textile Limited.
+KHTC	Khyber Tobacco Co. Ltd.
+PAKT	Pakistan Tobacco Co Ltd. (XD)
+PMPK	Philip Morris (Pakistan)Ltd.
+CLVL	Cordoba Logistics & Ventures Limited
+GEMUNSL	Universal Network Systems Limited
+PIAA	Pak International Airline Corp Ltd
+PIAB	Pakistan International Airline Corp Ltd
+PIBTL	Pakistan Intl. Bulk Terminal Ltd.
+PICT	Pakistan Int.Container Terminal. (XD)
+PNSC	Pakistan National Shipping Co.
+EXTR	Extraction (Pakistan) [ DEFAULTER SEGMENT ]
+POML	Punjab Oil Mills Ltd.
+SSOM	S .S . Oil Mills Ltd.
+SURAJ	Suraj Ghee Industries [ DEFAULTER SEGMENT ]
+BNWM	Bannu Woollen Mills Limited.

@@ -1,0 +1,2 @@
+	Data Scraper	Data Scraper	Data Scraper	Data Scraper	Data Scraper	Data Scraper	Data Scraper
+S.No	Company	Industry	Head Office Address	Factory Office Address	Phone 	City	Website link
